@@ -1,0 +1,711 @@
+<section id="beachTemplate">
+  <div
+    id="beachTemplate-top"
+    ng-repeat="itmTemplate in beachesList"
+    ng-if="itmTemplate.beachCodeName==detailPath"
+    class="container-fluid"
+  >
+    <div class="row no-gutters">
+      <div class="col no-gutters">
+        <!--image with half witdh-->
+        <div
+          id="beachTemplate-header"
+          ng-style="{'background-image': 'url({{itmTemplate.beachImgHeader}})'}"
+        >
+          <div id="beachTemplate-header-box">
+            <div>{{itmTemplate.beachName}} <br /></div>
+            <div>{{itmTemplate.beachCountry}}</div>
+          </div>
+        </div>
+
+        <!--image with half witdh-->
+      </div>
+    </div>
+    <!--Description of beach-->
+
+    <div>
+      <div id="beachTemplate-body-box">
+        <div
+          id="myScrollspy-box"
+          class="row no-gutters sticky-top justify-content-between"
+          scroll-spy
+        >
+          <nav
+            class="navbar navbar-light"
+            class="col-12 no-gutters"
+            id="myScrollspy"
+          >
+            <ul
+              id="navPills"
+              class="nav nav-pills"
+              scrollspy-menu="{offset:100, duration:200}"
+            >
+              <li class="nav-item">
+                <a
+                  class="nav-link"
+                  href="#about"
+                  prevent-default=""
+                  scroll-to="about"
+                  ><i class="fa-solid fa-circle-info"></i> &nbsp;About</a
+                >
+              </li>
+              <li class="nav-item">
+                <a
+                  class="nav-link"
+                  href="#location"
+                  prevent-default=""
+                  scroll-to="location"
+                  ><i class="fa-solid fa-location-dot"></i> &nbsp;Location</a
+                >
+              </li>
+              <li class="nav-item">
+                <a
+                  class="nav-link"
+                  href="#gallery"
+                  prevent-default=""
+                  scroll-to="gallery"
+                  ><i class="fa-regular fa-image"></i> &nbsp;Gallery</a
+                >
+              </li>
+              <li class="nav-item">
+                <a
+                  class="nav-link"
+                  href="#downloads"
+                  prevent-default=""
+                  scroll-to="downloads"
+                  ><i class="fa-solid fa-download"></i> &nbsp;Downloads</a
+                >
+              </li>
+              <li class="nav-item">
+                <a
+                  class="nav-link"
+                  href="#rateReview"
+                  prevent-default=""
+                  scroll-to="rateReview"
+                  ><i class="fa-regular fa-star-half-stroke"></i> &nbsp;Rate &
+                  Review</a
+                >
+              </li>
+              <li class="nav-item">
+                <a
+                  class="nav-link"
+                  href="#FAQ"
+                  prevent-default=""
+                  scroll-to="FAQ"
+                  ><i class="fa-solid fa-circle-question"></i> &nbsp;F.A.Q</a
+                >
+              </li>
+            </ul>
+          </nav>
+        </div>
+        <div id="beachTemplate-body" class="row no-gutters">
+          <div
+            id="scroller"
+            scroll-spy=""
+            class="col-md-10 col-lg-9"
+            data-spy="scroll"
+            data-target="#myScrollspy"
+            data-offset="50"
+            data-scroll-offset="50"
+          >
+            <section id="about" class="">
+              <h2>About the beach</h2>
+              <hr />
+              <div id="beach-content">{{itmTemplate.beachFullContent}}</div>
+            </section>
+
+            <!--location start-->
+            <section id="location" class="">
+              <h2>Location</h2>
+              <hr />
+              <div id="beachMap">
+                <locate
+                  locating="detailBeach.beachLocation"
+                  width="400"
+                  height="300"
+                ></locate>
+              </div>
+            </section>
+            <!--location end-->
+
+            <!--gallery start-->
+            <section id="gallery">
+              <h2>Gallery</h2>
+              <hr />
+              <!-- slider container -->
+              <div class="slider">
+                <!-- enumerate all photos -->
+                <div class="slider-container">
+                  <img
+                    ng-repeat="photo in itmTemplate.beachImgFull"
+                    class="slide-box"
+                    ng-show="isActive($index)"
+                    ng-src="{{photo.src}}"
+                    alt="{{photo.desc}}"
+                  />
+                  <div class="gallery-arrow-left" ng-click="showPrev()">
+                    <i class="fa-solid fa-chevron-left"></i>
+                  </div>
+                  <div class="gallery-arrow-right" ng-click="showNext()">
+                    <i class="fa-solid fa-chevron-right"></i>
+                  </div>
+                </div>
+                <!-- extra navigation controls -->
+                <ul class="nav-gallery">
+                  <li
+                    ng-repeat="photo in itmTemplate.beachImgFull"
+                    ng-class="{'active':isActive($index)}"
+                  >
+                    <img
+                      ng-src="{{photo.src}}"
+                      alt="{{photo.desc}}"
+                      title="{{photo.desc}}"
+                      ng-click="showPhoto($index);"
+                    />
+                  </li>
+                </ul>
+              </div>
+            </section>
+
+            <!--gallery end-->
+
+            <section id="downloads" class="">
+              <h2>Downloads</h2>
+              <hr />
+              <div id="beach-downloads">
+                <div>
+                  For your convenience, we've additionally made a fully
+                  descriptive PDF file format for offline access circumstances.
+                  Please kindly click on the following link.
+                  <br /><br />However, we still encourage you to directly access
+                  our website for the best experience. <br /><br />
+                  <div class="beach-downloads-box">
+                    <span class="beach-downloads-icon">
+                      <i class="fa-solid fa-file-pdf"></i> </span
+                    ><span
+                      ><a
+                        class="beach-downloads-link"
+                        href="{{itmTemplate.beachPdf}}"
+                        target="_blank"
+                        >Link for Downloads</a
+                      ></span
+                    >
+                  </div>
+                </div>
+              </div>
+            </section>
+
+            <!--ratings and reviews start-->
+            <section id="rateReview" class="">
+              <h2>Ratings & Reviews</h2>
+              <hr />
+              <!--rating card star-->
+              <div class="beach-rating">
+                <span>{{itmTemplate.beachRating | number: 1}}</span>
+                <star rating="itmTemplate.beachRating" max="5"></star>
+                <span>{{itmTemplate.beachReviewTotal}} reviews</span>
+              </div>
+              <!--rating card end-->
+              <div class="rateBeach-box">
+                <button
+                  type="button"
+                  class="btn btn-primary btn-block"
+                  ng-click="toggleUserReview()"
+                >
+                  Rate this beach
+                </button>
+              </div>
+              <div class="user-review" ng-show="userReviewState">
+                <form name="addReviewForm" id="addReviewForm" novalidate>
+                  <div class="user-review-fullname">
+                    <h6>Your Name <span>(required)</span></h6>
+                    <input
+                      ng-model="userRv.FullName"
+                      class="form-control"
+                      type="text"
+                      name="userFullName"
+                      placeholder="Enter your Full Name"
+                      ng-class="{'inputErr': addReviewForm.userFullName.$error.required && !addReviewForm.userFullName.$untouched}"
+                      ng-required="true"
+                    />
+                    <div class="alertErr-box">
+                      <span
+                        class="alertErr"
+                        ng-show="addReviewForm.userFullName.$touched && addReviewForm.userFullName.$error.required"
+                        >Please enter your Name.</span
+                      >
+                    </div>
+                  </div>
+                  <div class="user-review-email">
+                    <h6>Your Email <span>(required)</span></h6>
+                    <input
+                      ng-model="userRv.Email"
+                      class="form-control"
+                      type="text"
+                      name="userEmail"
+                      placeholder="Enter your Email"
+                      ng-class="{'inputErr': (addReviewForm.userEmail.$error.required  || addReviewForm.userEmail.$error.pattern) && !addReviewForm.userEmail.$untouched}"
+                      ng-pattern="/^[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,4}$/"
+                      ng-required="true"
+                    />
+                    <div class="alertErr-box">
+                      <span
+                        class="alertErr"
+                        ng-show="addReviewForm.userEmail.$touched && addReviewForm.userEmail.$error.required"
+                        >Please enter your Email.</span
+                      >
+                      <span
+                        class="alertErr"
+                        ng-show="addReviewForm.userEmail.$dirty && addReviewForm.userEmail.$error.pattern"
+                        >Email must be in the form 'xxx@xxx.xxx'.
+                      </span>
+                    </div>
+                  </div>
+                  <div class="user-review-rating">
+                    <h6>Rate your Experience <span>(required)</span></h6>
+                    <span
+                      star-rating
+                      rating-value="userRatings.current"
+                      max="userRatings.max"
+                    ></span>
+                    <span class="userRating-score"
+                      >&nbsp; &nbsp; {{userRatings.current}} /
+                      {{userRatings.max}}</span
+                    >
+                    <div>Click to rate</div>
+                  </div>
+                  <div class="user-review-when">
+                    <h6>When did you go? <span>(required)</span></h6>
+                    <div class="input-group">
+                      <select
+                        ng-model="userRv.When"
+                        name="userWhen"
+                        class="custom-select"
+                        ng-class="{'inputErr': addReviewForm.userWhen.$error.required && !addReviewForm.userWhen.$untouched}"
+                        ng-required="true"
+                      >
+                        <option value="" selected>Please pick up one</option>
+                        <option ng-repeat="x in monthsList" value="{{x.value}}">
+                          {{x.value}}
+                        </option>
+                      </select>
+                    </div>
+                    <div class="alertErr-box">
+                      <span
+                        class="alertErr"
+                        ng-show="addReviewForm.userWhen.$touched && addReviewForm.userWhen.$error.required"
+                        >Please select a month.</span
+                      >
+                    </div>
+                  </div>
+                  <div class="user-review-who">
+                    <h6>Who was with you? <span>(required)</span></h6>
+                    <div class="input-group">
+                      <select
+                        ng-model="userRv.Who"
+                        name="userWho"
+                        class="custom-select"
+                        ng-class="{'inputErr': addReviewForm.userWho.$error.required && !addReviewForm.userWho.$untouched}"
+                        ng-required="true"
+                      >
+                        <option value="" selected>Please pick up one</option>
+                        <option ng-repeat="x in usersWho" value="{{x}}">
+                          {{x}}
+                        </option>
+                      </select>
+                    </div>
+                    <div class="alertErr-box">
+                      <span
+                        class="alertErr"
+                        ng-show="addReviewForm.userWho.$touched && addReviewForm.userWho.$error.required"
+                        >Please select an option.</span
+                      >
+                    </div>
+                  </div>
+                  <div class="user-review-cost">
+                    <h6>
+                      How much did your trip cost? <span>(required)</span>
+                    </h6>
+                    <div class="input-group">
+                      <select
+                        ng-model="userRv.Cost"
+                        name="userCost"
+                        class="custom-select"
+                        ng-class="{'inputErr': addReviewForm.userCost.$error.required && !addReviewForm.userCost.$untouched}"
+                        ng-required="true"
+                      >
+                        <option value="" selected>Please pick up one</option>
+                        <option ng-repeat="x in pricesList" value="{{x.value}}">
+                          {{x.name}}
+                        </option>
+                      </select>
+                    </div>
+                    <div class="alertErr-box">
+                      <span
+                        class="alertErr"
+                        ng-show="addReviewForm.userCost.$touched && addReviewForm.userCost.$error.required"
+                        >Please select an option.</span
+                      >
+                    </div>
+                  </div>
+                  <div class="user-review-other">
+                    <h6>Leave a review <span>(required)</span></h6>
+                    <div class="form-group">
+                      <textarea
+                        ng-model="userRv.Other"
+                        name="userOther"
+                        class="form-control"
+                        id="exampleFormControlTextarea1"
+                        rows="4"
+                        placeholder="Tell us about your trip experience: Describe the place, activities, or any recommendations for other travelers?"
+                        ng-class="{'inputErr': (addReviewForm.userOther.$error.required || addReviewForm.userOther.$error.minlength) && !addReviewForm.userOther.$untouched}"
+                        ng-required="true"
+                        ng-minlength="50"
+                      ></textarea>
+                      <div class="alertErr-box">
+                        <span
+                          class="alertErr"
+                          ng-show="addReviewForm.userOther.$touched && addReviewForm.userOther.$error.required"
+                          >Please enter what you think.</span
+                        >
+                        <span
+                          class="alertErr"
+                          ng-show="addReviewForm.userOther.$touched && addReviewForm.userOther.$error.minlength"
+                          >Required minimum of 50 charaters.</span
+                        >
+                      </div>
+                    </div>
+                  </div>
+                  <hr />
+                  <div class="user-review-optional">
+                    Could you tell us a little more about your trip?
+                  </div>
+                  <div class="user-review-long">
+                    <h6>How long was your trip? <span>(optional)</span></h6>
+                    <div class="form-group">
+                      <div
+                        class="custom-control custom-radio custom-control-inline"
+                        ng-repeat="x in usersLong"
+                      >
+                        <input
+                          type="radio"
+                          id="customRadio_{{x.id}}"
+                          name="customRadio"
+                          class="custom-control-input"
+                          value="{{x.id}}"
+                          ng-model="$parent.userRv.Long"
+                        />
+                        <label
+                          class="custom-control-label"
+                          for="customRadio_{{x.id}}"
+                          >{{x.value}}</label
+                        >
+                      </div>
+                    </div>
+                  </div>
+                  <div class="user-review-climate">
+                    <h6>How was the atmosphere? <span>(optional)</span></h6>
+                    <div class="input-group">
+                      <select ng-model="userRv.Climate" class="custom-select">
+                        <option value="" selected>Please pick up one</option>
+                        <option ng-repeat="x in usersClimate" value="{{x.id}}">
+                          {{x.value}}
+                        </option>
+                      </select>
+                    </div>
+                  </div>
+                  <div class="user-review-food">
+                    <h6>How was the food? <span>(optional)</span></h6>
+                    <div class="input-group">
+                      <select ng-model="userRv.Food" class="custom-select">
+                        <option value="" selected>Please pick up one</option>
+                        <option
+                          ng-repeat="x in usersFood | orderBy:id:true"
+                          value="{{x.id}}"
+                        >
+                          {{x.value}}
+                        </option>
+                      </select>
+                    </div>
+                  </div>
+                  <div class="user-review-facility">
+                    <h6>
+                      How was the external facilities? <span>(optional)</span>
+                    </h6>
+                    <div class="input-group">
+                      <select ng-model="userRv.Facility" class="custom-select">
+                        <option value="" selected>Please pick up one</option>
+                        <option
+                          ng-repeat="x in usersFacility | orderBy:id:true"
+                          value="{{x.id}}"
+                        >
+                          {{x.value}}
+                        </option>
+                      </select>
+                    </div>
+                  </div>
+                  <div class="user-review-btn">
+                    <input
+                      type="button"
+                      value="Submit"
+                      ng-click="doAddReview(addReviewForm)"
+                      ng-disabled="btnAdd || addReviewForm.$invalid || addReviewForm.$pristine"
+                      class="btn btn-outline-primary"
+                      class="addReview-btn"
+                    />
+                    <input
+                      type="button"
+                      value="Reset"
+                      ng-click="doResetReview(addReviewForm)"
+                      class="btn btn-outline-primary"
+                      class="addReview-btn"
+                    />
+                  </div>
+                </form>
+              </div>
+              <!--review content start-->
+              <div class="review-content-box">
+                <h6>All rating and reviews</h6>
+                <input
+                  type="text"
+                  class="form-control review"
+                  placeholder="Search review"
+                  ng-model="review.search"
+                />
+
+                <div class="input-group">
+                  <div class="input-group-prepend">
+                    <label class="input-group-text" for="inputGroupSelect01"
+                      >Sort by</label
+                    >
+                  </div>
+                  <select
+                    class="custom-select"
+                    ng-model="review.order"
+                    name="userOrder"
+                  >
+                    <option value="" selected class="dropdown-item">
+                      Choose ...
+                    </option>
+                    <option value="rvRating" class="dropdown-item">
+                      Rating
+                    </option>
+                    <option value="rvTime" class="dropdown-item">
+                      Posted day
+                    </option>
+                  </select>
+                  <div class="input-group-append">
+                    <button
+                      class="btn btn-outline-secondary"
+                      type="button"
+                      ng-click="toggleOrderBy()"
+                    >
+                      {{btnOrderBy}}
+                    </button>
+                  </div>
+                </div>
+
+                <div class="review-mention">
+                  <h6>Popular mentions</h6>
+                  <button
+                    type="button"
+                    class="btn btn-outline-info"
+                    ng-click="toggleMention('sand')"
+                  >
+                    Sand
+                  </button>
+                  <button
+                    type="button"
+                    class="btn btn-outline-info"
+                    ng-click="toggleMention('surf')"
+                  >
+                    Surf
+                  </button>
+                  <button
+                    type="button"
+                    class="btn btn-outline-info"
+                    ng-click="toggleMention('resort')"
+                  >
+                    Resort
+                  </button>
+                  <button
+                    type="button"
+                    class="btn btn-outline-info"
+                    ng-click="toggleMention('restaurant')"
+                  >
+                    Restaurant
+                  </button>
+                  <button
+                    type="button"
+                    class="btn btn-outline-info"
+                    ng-click="toggleMention('food')"
+                  >
+                    Food
+                  </button>
+                  <button
+                    type="button"
+                    class="btn btn-outline-success"
+                    ng-click="toggleMention()"
+                  >
+                    CLEAR
+                  </button>
+                </div>
+              </div>
+              <table
+                class="detail-review"
+                ng-repeat="itmReview in reviewsList | filter:review.search | filter:{rvOther:review.mention} | orderBy:review.order:review.orderBy"
+                ng-if="itmReview.rvBeachId==detailPath"
+              >
+                <tr>
+                  <td class="detail-review-name">
+                    {{itmReview.rvFullName}}
+                    <span class="detail-review-email"
+                      >&nbsp; ({{itmReview.rvEmail}})</span
+                    >
+                  </td>
+                  <td class="detail-review-time">
+                    {{toJsDate(itmReview.rvTime) | date: 'medium'}}
+                  </td>
+                </tr>
+                <tr>
+                  <td class="detail-review-rating" colspan="2">
+                    <star
+                      rating="itmReview.rvRating"
+                      max="5"
+                      ele="review.order"
+                    ></star>
+                    &nbsp;&nbsp;{{itmReview.rvRating | number: 1}}
+                  </td>
+                </tr>
+                <tr>
+                  <td class="detail-review-other" colspan="2">
+                    {{itmReview.rvOther}}
+                  </td>
+                </tr>
+              </table>
+              <!--review content end-->
+            </section>
+
+            <!--ratings and reviews end-->
+
+            <!--FAQ start-->
+            <section id="FAQ" class="">
+              <h2>F.A.Q</h2>
+              <hr />
+              <div class="accordion" id="faqCard">
+                <div
+                  class="card"
+                  ng-repeat="itmFaq in faqsList"
+                  ng-if="itmFaq.qaBeachId==detailPath"
+                >
+                  <div class="card-header p-2" id="heading_{{itmFaq.qaId}}">
+                    <h6 class="mb-0">
+                      <button
+                        class="btn text-left"
+                        type="button"
+                        data-toggle="collapse"
+                        data-target="#collapse_{{itmFaq.qaId}}"
+                        aria-expanded="false"
+                        aria-controls="collapse_{{itmFaq.qaId}}"
+                      >
+                        <table class="detail-faq-ask">
+                          <tr>
+                            <td class="detail-faq-ask-header">Q</td>
+                            <td class="detail-faq-ask-name">
+                              {{itmFaq.qaAskName}}<span
+                                class="detail-faq-ask-time"
+                              >
+                                {{toJsDate(itmFaq.qaAskTime) | date: 'medium'}}
+                              </span>
+                            </td>
+                          </tr>
+                          <tr>
+                            <td></td>
+                            <td class="detail-faq-ask-question">
+                              {{itmFaq.qaQuestion}}
+                            </td>
+                          </tr>
+                        </table>
+                      </button>
+                    </h6>
+                  </div>
+                  <div
+                    id="collapse_{{itmFaq.qaId}}"
+                    class="collapse show"
+                    aria-labelledby="heading_{{itmFaq.qaId}}"
+                    data-parent="#faqCard"
+                  >
+                    <div class="card-body">
+                      <table class="detail-faq-ans">
+                        <tr>
+                          <td class="detail-faq-ans-header">A</td>
+                          <td class="detail-faq-ans-name">
+                            {{itmFaq.qaAnsName}}<span
+                              class="detail-faq-ans-time"
+                            >
+                              {{toJsDate(itmFaq.qaAnsTime) | date: 'medium'}}
+                            </span>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td></td>
+                          <td class="detail-faq-ans-answer">
+                            {{itmFaq.qaAnswer}}
+                          </td>
+                        </tr>
+                      </table>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <!-- Support Button-->
+              <div
+                class="support-button text-center d-flex align-items-center justify-content-center mt-4 wow fadeInUp"
+                data-wow-delay="0.5s"
+                style="
+                  visibility: visible;
+                  animation-delay: 0.5s;
+                  animation-name: fadeInUp;
+                "
+              >
+                <p>
+                  Still have any questions? Contact us to get your answer!
+                  &nbsp;&nbsp;
+                  <a href="#!contactUs"
+                    ><button type="button" class="btn btn-primary">
+                      Contact Us
+                    </button></a
+                  >
+                </p>
+              </div>
+            </section>
+            <!--FAQ end-->
+          </div>
+          <div class="col-md-2 col-lg-3 no-gutters">
+            <div class="beachTemplate-ads">
+              <h6>Recommended flight for you</h6>
+              <div class="ads-body">
+                <div class="ads-imgContainer">
+                  <img
+                    ng-src="{{itmTemplate.beachAds.thumb}}"
+                    alt="{{itmTemplate.beachAds.desc}}"
+                    title="{{itmTemplate.beachAds.desc}}"
+                  />
+                  <div class="ads-linkContainer">
+                    <div class="ads-linkContainer-text">
+                      <a href="{{itmTemplate.beachAds.src}}" target="_blank"
+                        >Visit</a
+                      >
+                    </div>
+                  </div>
+                </div>
+                <div class="ads-flightsName">{{itmTemplate.beachAds.desc}}</div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

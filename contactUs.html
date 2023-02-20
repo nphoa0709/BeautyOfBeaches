@@ -1,0 +1,525 @@
+<section id="contactUs" class="container-fluid" ng-controller="contactCtrl">
+  <div>
+    <div class="row-12 no-gutters">
+      <div class="col-12 no-gutters">
+        <div id="contactUs-header">
+          <div id="contactUs-header-box">
+            <div>CONTACT US</div>
+            <div>&quot; Let's do great things together. &quot;</div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div id="contactUs-body">
+      <fieldset id="contact-content" class="border p-2 dashed">
+        <legend class="w-auto">
+          Contact
+          <span>&nbsp;&nbsp;<i class="fa-solid fa-address-card"></i></span>
+        </legend>
+        <div class="d-flex flex-sm-row flex-column justify-content-around">
+          <div class="contact office">
+            <h4>Office</h4>
+            <div>
+              GIC Building
+              <br />
+              <div>
+                275 Nguyen Van Dau Street, <br />Ward 11, Binh Thanh District,
+                <br />Ho Chi Minh City, Vietnam
+              </div>
+            </div>
+          </div>
+          <div class="contact phone">
+            <h4>Hotline</h4>
+            <div>
+              <div>Site Developer</div>
+              <div>(+84) 96 223 2226</div>
+            </div>
+            <div>
+              <div>Site Content Manager</div>
+              <div>(+84) 90 030 9989</div>
+            </div>
+            <div>
+              <div>PR Manager</div>
+              <div>(+84) 97 585 2737</div>
+            </div>
+          </div>
+          <div class="contact email">
+            <h4>Email</h4>
+            <div>
+              <div>Technical Department</div>
+              <div>tech.dept@beautyofbeaches.com</div>
+            </div>
+            <div>
+              <div>HR Department</div>
+              <div>hr.dept@beautyofbeaches.com</div>
+            </div>
+          </div>
+        </div>
+      </fieldset>
+      <fieldset id="feedback-content" class="border p-2 dashed">
+        <legend class="w-auto">
+          Share your feedback
+          <span>&nbsp;&nbsp;<i class="fa-solid fa-comment"></i></span>
+        </legend>
+        <label>
+          We immensely care about visitors and wish you to enjoy your precious
+          experience with our website. The given feedback would allow us a
+          chance to improve our service quality. We will take all of your
+          suggestions and recommendations as considerable information for
+          updating, and mending our website and database as well, not only for
+          the content but also for the user experience.
+          <br />
+          <br />
+          We greatly appreciate your contributions. All the information provided
+          shall be kept strictly confidential under any circumstances.
+        </label>
+      </fieldset>
+      <div id="contactUs-body-user">
+        <div class="row no-gutters">
+          <div
+            id="userFbForm-col1"
+            class="col-sm-12 col-md-5 col-lg-5 no-gutters"
+          >
+            <form name="userFbForm" id="userFbForm" novalidate>
+              <div class="user-info fullname">
+                <h6>Your Name <span> *</span></h6>
+                <input
+                  ng-model="userFb.fullName"
+                  class="form-control"
+                  type="text"
+                  name="userFullName"
+                  placeholder="Enter your Full Name"
+                  ng-class="{'inputErr': userFbForm.userFullName.$error.required && !userFbForm.userFullName.$untouched}"
+                  ng-required="true"
+                />
+                <div class="alertErr-box">
+                  <span
+                    class="alertErr"
+                    ng-show="userFbForm.userFullName.$touched && userFbForm.userFullName.$error.required"
+                    >Please enter your Name.</span
+                  >
+                </div>
+              </div>
+              <div class="user-info email">
+                <h6>Your Email <span> *</span></h6>
+                <input
+                  ng-model="userFb.email"
+                  class="form-control"
+                  type="text"
+                  name="userEmail"
+                  placeholder="Enter your Email"
+                  ng-class="{'inputErr': (userFbForm.userEmail.$error.required  || userFbForm.userEmail.$error.pattern) && !userFbForm.userEmail.$untouched}"
+                  ng-pattern="/^[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,4}$/"
+                  ng-required="true"
+                />
+                <div class="alertErr-box">
+                  <span
+                    class="alertErr"
+                    ng-show="userFbForm.userEmail.$touched && userFbForm.userEmail.$error.required"
+                    >Please enter your Email.</span
+                  >
+                  <span
+                    class="alertErr"
+                    ng-show="userFbForm.userEmail.$dirty && userFbForm.userEmail.$error.pattern"
+                    >Email must be in the form 'xxx@xxx.xxx'.
+                  </span>
+                </div>
+              </div>
+              <div class="user-info age">
+                <h6>Your Age <span> *</span></h6>
+                <div class="input-group">
+                  <input
+                    ng-model="userFb.age"
+                    class="form-control"
+                    type="text"
+                    name="userAge"
+                    placeholder="Enter your Age"
+                    ng-class="{'inputErr': (userFbForm.userAge.$error.required || userFbForm.userAge.$error.pattern) && !userFbForm.userAge.$untouched}"
+                    ng-pattern="/^[0-9]{1,}$/"
+                    ng-maxlength="3"
+                    ng-required="true"
+                  />
+                </div>
+                <div class="alertErr-box">
+                  <span
+                    class="alertErr"
+                    ng-show="userFbForm.userAge.$touched && userFbForm.userAge.$error.required"
+                    >Please enter your Age.
+                  </span>
+                  <span
+                    class="alertErr"
+                    ng-show="userFbForm.userAge.$dirty && userFbForm.userAge.$error.pattern"
+                    >Only numbers accepted.
+                  </span>
+                  <span
+                    class="alertErr"
+                    ng-show="userFbForm.userAge.$touched && userFbForm.userAge.$error.maxlength"
+                    >Hoola, unbelievable !! You are older than a dinosaur ...
+                  </span>
+                </div>
+              </div>
+            </form>
+          </div>
+          <div
+            id="userFbForm-col2"
+            class="col-sm-12 col-md-7 col-lg-7 no-gutters"
+          >
+            <h6>Choose what you would like to feedback<span> *</span></h6>
+            <div
+              class="feedback opt1"
+              ng-click="toggleFeedback1()"
+              ng-class="{'stateActive': userFbState1}"
+            >
+              <div>
+                <span>Article-related feedback</span><br />Feedback related to
+                updating the outdated content of our website, as of the
+                specified beaches.
+              </div>
+            </div>
+            <div
+              class="feedback opt2"
+              ng-click="toggleFeedback2()"
+              ng-class="{'stateActive': userFbState2}"
+            >
+              <div>
+                <span>Website-related troubles and feedback</span
+                ><br />Feedback is relevant to the website itself, including
+                the website interface, page loading speed, and other
+                suggestions.
+              </div>
+            </div>
+          </div>
+          <div id="userFbForm-content" class="col-12 no-gutters">
+            <div
+              id="feedback-content1"
+              ng-class="{'stateContentActive': userFbState1}"
+            >
+              <form name="fbContent1Form" id="fbContent1Form" novalidate>
+                <div class="feedback-content-box" ng-hide="!userFbState1">
+                  <h6>Beach Name <span> *</span></h6>
+                  <input
+                    ng-model="fbContent.beachName"
+                    class="form-control"
+                    type="text"
+                    name="beachName"
+                    placeholder="Enter the beach name"
+                    ng-class="{'inputErr': fbContent1Form.beachName.$error.required && !fbContent1Form.beachName.$untouched}"
+                    ng-required="true"
+                    auto-suggest
+                  />
+                  <div class="alertErr-box">
+                    <span
+                      class="alertErr"
+                      ng-show="fbContent1Form.beachName.$touched && fbContent1Form.beachName.$error.required"
+                      >Please enter the beach Name.</span
+                    >
+                  </div>
+                  <div class="feedback-switch outdated">
+                    <div class="custom-control custom-switch">
+                      <input
+                        type="checkbox"
+                        class="custom-control-input"
+                        id="content1-switch1"
+                        ng-model="fbContent.outdatedChkBox"
+                      />
+                      <label class="custom-control-label" for="content1-switch1"
+                        >Information of this beach is outdated or
+                        incorrect.</label
+                      >
+                      <div ng-show="fbContent.outdatedChkBox">
+                        <div class="feedback-commentRequired">
+                          Brief description<span> *</span>
+                        </div>
+                        <div class="form-group">
+                          <textarea
+                            ng-model="fbContent.outdatedCmt"
+                            name="fbContentOutdated"
+                            class="form-control"
+                            id="fbContentOutdated-textarea1"
+                            rows="4"
+                            placeholder="Please specified the outdated information shortly"
+                            ng-class="{'inputErr': (fbContent1Form.fbContentOutdated.$error.required || fbContent1Form.fbContentOutdated.$error.minlength) && !fbContent1Form.fbContentOutdated.$untouched}"
+                            ng-required="true"
+                          ></textarea>
+                          <div class="alertErr-box">
+                            <span
+                              class="alertErr"
+                              ng-show="fbContent1Form.fbContentOutdated.$touched && fbContent1Form.fbContentOutdated.$error.required"
+                              >Please tell us what you think.</span
+                            >
+                            <span
+                              class="alertErr"
+                              ng-show="fbContent1Form.fbContentOutdated.$touched && fbContent1Form.fbContentOutdated.$error.minlength"
+                              >Required minimum of 50 charaters.</span
+                            >
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="feedback-switch duplicated">
+                    <div class="custom-control custom-switch">
+                      <input
+                        type="checkbox"
+                        class="custom-control-input"
+                        id="content1-switch2"
+                        ng-model="fbContent.dupChkBox"
+                      />
+                      <label class="custom-control-label" for="content1-switch2"
+                        >This beach is duplicate with another existing beach
+                        URL.</label
+                      >
+                      <div ng-show="fbContent.dupChkBox">
+                        <div class="feedback-commentRequired">
+                          Brief description<span> *</span>
+                        </div>
+                        <div class="form-group">
+                          <textarea
+                            ng-model="fbContent.dupCmt"
+                            name="fbContentDup"
+                            class="form-control"
+                            id="fbContentDup-textarea1"
+                            rows="2"
+                            placeholder="Please specified the duplicated's beach URL below"
+                            ng-class="{'inputErr': (fbContent1Form.fbContentDup.$error.required || fbContent1Form.fbContentDup.$error.minlength) && !fbContent1Form.fbContentDup.$untouched}"
+                            ng-required="true"
+                          ></textarea>
+                          <div class="alertErr-box">
+                            <span
+                              class="alertErr"
+                              ng-show="fbContent1Form.fbContentDup.$touched && fbContent1Form.fbContentDup.$error.required"
+                              >Please tell us the duplicate URL.</span
+                            >
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="feedback-switch closed">
+                    <div class="custom-control custom-switch">
+                      <input
+                        type="checkbox"
+                        class="custom-control-input"
+                        id="content1-switch3"
+                        ng-model="fbContent.closedChkBox"
+                      />
+                      <label class="custom-control-label" for="content1-switch3"
+                        >This beach has closed permanently.</label
+                      >
+                      <div ng-show="fbContent.closedChkBox">
+                        <div class="feedback-commentOptional">
+                          Your comment<span> (optional)</span>
+                        </div>
+                        <div class="form-group">
+                          <textarea
+                            ng-model="fbContent.closedCmt"
+                            name="fbContentClosed"
+                            class="form-control"
+                            id="fbContentClosed-textarea1"
+                            rows="3"
+                            placeholder="Please fill out your comment (if any)"
+                          ></textarea>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="feedback-switch existed">
+                    <div class="custom-control custom-switch">
+                      <input
+                        type="checkbox"
+                        class="custom-control-input"
+                        id="content1-switch4"
+                        ng-model="fbContent.existChkBox"
+                      />
+                      <label class="custom-control-label" for="content1-switch4"
+                        >This beach does not exist.</label
+                      >
+                      <div ng-show="fbContent.existChkBox">
+                        <div class="feedback-commentOptional">
+                          Your comment<span> (optional)</span>
+                        </div>
+                        <div class="form-group">
+                          <textarea
+                            ng-model="fbContent.existCmt"
+                            name="fbContentExist"
+                            class="form-control"
+                            id="fbContentExist-textarea1"
+                            rows="3"
+                            placeholder="Please fill out your comment (if any)"
+                          ></textarea>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="user-feedback-btn">
+                    <input
+                      type="button"
+                      value="Submit"
+                      ng-click="doAddFeedback1(userFbForm, fbContent1Form)"
+                      ng-disabled="btnSubmit || userFbForm.$invalid || userFbForm.$pristine || fbContent1Form.$invalid || fbContent1Form.$pristine"
+                      class="btn btn-primary"
+                      class="addFeedback-btn"
+                    />
+                    <input
+                      type="button"
+                      value="Reset"
+                      ng-click="doResetFeedback(userFbForm, fbContent1Form)"
+                      class="btn btn-primary"
+                      class="addFeedback-btn"
+                    />
+                  </div>
+                </div>
+              </form>
+            </div>
+            <div
+              id="feedback-content2"
+              ng-class="{'stateContentActive': userFbState2}"
+            >
+              <form name="fbContent2Form" id="fbContent2Form" novalidate>
+                <div class="feedback-content-box" ng-hide="!userFbState2">
+                  <div class="feedbackSite-quality">
+                    <h6>
+                      How do you feel about the quality of the content?<span>
+                        *</span
+                      >
+                    </h6>
+                    <div class="form-group">
+                      <div
+                        class="custom-control custom-radio custom-control-inline"
+                        ng-repeat="x in fbRate | orderBy:id:true"
+                      >
+                        <input
+                          type="radio"
+                          id="fbSiteQuality_radio_{{x.id}}"
+                          name="fbSiteQuality_radio_{{x.id}}"
+                          class="custom-control-input"
+                          value="{{x.id}}"
+                          ng-model="$parent.userFb.quality"
+                          ng-required="true"
+                        />
+                        <label
+                          class="custom-control-label"
+                          for="fbSiteQuality_radio_{{x.id}}"
+                          >{{x.value}}</label
+                        >
+                      </div>
+                    </div>
+                  </div>
+                  <div class="feedbackSite-visual">
+                    <h6>
+                      How do you feel about the visualization of our
+                      website?<span> *</span>
+                    </h6>
+                    <div class="form-group">
+                      <div
+                        class="custom-control custom-radio custom-control-inline"
+                        ng-repeat="x in fbRate  | orderBy:id:true"
+                      >
+                        <input
+                          type="radio"
+                          id="fbSiteVisual_radio_{{x.id}}"
+                          name="fbSiteVisual_radio_{{x.id}}"
+                          class="custom-control-input"
+                          value="{{x.id}}"
+                          ng-model="$parent.userFb.visual"
+                          ng-required="true"
+                        />
+                        <label
+                          class="custom-control-label"
+                          for="fbSiteVisual_radio_{{x.id}}"
+                          >{{x.value}}</label
+                        >
+                      </div>
+                    </div>
+                  </div>
+                  <div class="feedbackSite-speed">
+                    <h6>
+                      How do you feel about page loading speed?<span> *</span>
+                    </h6>
+                    <div class="form-group">
+                      <div
+                        class="custom-control custom-radio custom-control-inline"
+                        ng-repeat="x in fbRate | orderBy:id:true"
+                      >
+                        <input
+                          type="radio"
+                          id="fbSiteSpeed_radio_{{x.id}}"
+                          name="fbSiteSpeed_radio_{{x.id}}"
+                          class="custom-control-input"
+                          value="{{x.id}}"
+                          ng-model="$parent.userFb.speed"
+                          ng-required="true"
+                        />
+                        <label
+                          class="custom-control-label"
+                          for="fbSiteSpeed_radio_{{x.id}}"
+                          >{{x.value}}</label
+                        >
+                      </div>
+                    </div>
+                  </div>
+                  <div class="feedbackSite-overall">
+                    <h6>How about your overall experience?<span> *</span></h6>
+                    <div class="form-group">
+                      <div
+                        class="custom-control custom-radio custom-control-inline"
+                        ng-repeat="x in fbRate | orderBy:id:true"
+                      >
+                        <input
+                          type="radio"
+                          id="fbSiteOverall_radio_{{x.id}}"
+                          name="fbSiteOverall_radio_{{x.id}}"
+                          class="custom-control-input"
+                          value="{{x.id}}"
+                          ng-model="$parent.userFb.overall"
+                          ng-required="true"
+                        />
+                        <label
+                          class="custom-control-label"
+                          for="fbSiteOverall_radio_{{x.id}}"
+                          >{{x.value}}</label
+                        >
+                      </div>
+                    </div>
+                  </div>
+                  <div class="feedbackSite-other">
+                    <h6>
+                      What do you think our website needs to improve more?
+                      <span class="feedbackSiteOptional"> (optional)</span>
+                    </h6>
+                    <textarea
+                      ng-model="userFb.other"
+                      name="fbSiteOther"
+                      class="form-control"
+                      id="fbSiteOther-textarea1"
+                      rows="4"
+                      placeholder="Enter points you think we should focus more"
+                    ></textarea>
+                  </div>
+                  <div class="user-feedback-btn">
+                    <input
+                      type="button"
+                      value="Submit"
+                      ng-click="doAddFeedback2(userFbForm, fbContent2Form)"
+                      ng-disabled="btnSubmit || userFbForm.$invalid || userFbForm.$pristine || fbContent2Form.$invalid || fbContent2Form.$pristine"
+                      class="btn btn-primary"
+                      class="addFeedback-btn"
+                    />
+                    <input
+                      type="button"
+                      value="Reset"
+                      ng-click="doResetFeedback(userFbForm, fbContent2Form)"
+                      class="btn btn-primary"
+                      class="addFeedback-btn"
+                    />
+                  </div>
+                </div>
+              </form>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

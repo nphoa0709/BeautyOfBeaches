@@ -1,0 +1,947 @@
+{
+  "beaches": [
+    {
+      "beachId": 1,
+      "beachCodeName": "01-KohKradan",
+      "beachName": "Koh Kradan",
+      "beachCountry": "Thailand",
+      "beachRegion": "Asia",
+      "beachRating": 5.0,
+      "beachReviewTotal": 266,
+      "beachPrice": 1,
+      "beachContent": "Thailand is renowned for its beautiful beaches and to some extent this has meant that many of the most amazing beaches are now over-crowded and heavily commercialised ... ",
+      "beachFullContent": "Thailand is renowned for its beautiful beaches and to some extent this has meant that many of the most amazing beaches are now over-crowded and heavily commercialised. However, you don't have to go to far off the beaten track to still find a pristine gem and the island of Koh Kradan is home to just such a beach.This stunning stretch of powdery white sand remain a relative haven despite being only a few kilometres off the mainland.\n\nKo Kradan is one of the Trang Islands, a group of around 40 large and small islands which form a major part of the Hat Chao Mai national park. Of all these islands and islets Koh Kradan is perhaps the most beautiful and largely unspoilt. Despite only being a couple of hours south of Phuket and even closer to Koh Phi Phi, Koh Kradan is a world apart, sharing all the natural beauty but without the crowds and noise.\n\nThe waters of the Andaman Sea which surround the island are relatively sheltered and shallow, which means they are always warm i.e. ideal for swimming. On top of that they are crystal clear making for some excellent snorkelling in the protected waters. One thing to note though is the water is very shallow here at low tide and you'll have to paddle quite a way before it's deep enough to swim properly. For those feeling particularly energetic there is a popular kayak route around the island which can be completed in less than 3 hours, even at a leisurely pace.\n\nFor those looking to just relax and soak up the sun and calm Koh Kradan is perfect. There are numerous hammocks suspended between the palm trees that fringe the beach.\n\nThe main beach at Koh Kradan is the aptly named east facing Paradise beach. However there is another, equally appropriately named, beach on the other coast. Easily reachable by a short trail through the forest is Sunset beach where you can enjoy a peaceful view of the sun setting over the Andaman Sea.\n\nGetting to Ko Kradan involves taking one of the ubiquitous long-tailed boats and these are available from several locations on the mainland or many of the other islands. If you are planning on staying on the island there are several small resorts ranging from the upmarket but basic “flash-packer” style accommodation up to luxury beach bungalows.",
+      "beachThumb": "./images/01_Koh_Kradan_01.jpg",
+      "beachImgHeader": "./images/background/01_Koh_Kradan_01.jpg",
+      "beachUrl": "#!01-KohKradan",
+      "beachLocation": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3957.368697565484!2d99.2547002148377!3d7.312412515517529!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x304dde6825324fd1%3A0x11c18da5dda792fa!2sKoh%20Kradan%20Beach!5e0!3m2!1sen!2s!4v1659111049599!5m2!1sen!2s",
+      "beachPdf": "./pdf/01_Koh_Kradan.pdf",
+      "beachAds": {
+        "src": "https://www.thaiairways.com/",
+        "thumb": "./images/flights/01_ThaiAirways.png",
+        "desc": "Thai Airways"
+      },
+      "beachImgFull": [
+        { "src": "./images/01_Koh_Kradan_01.jpg", "desc": "Image 01" },
+        { "src": "./images/01_Koh_Kradan_02.jpg", "desc": "Image 02" },
+        { "src": "./images/01_Koh_Kradan_03.jpg", "desc": "Image 03" },
+        { "src": "./images/01_Koh_Kradan_04.jpg", "desc": "Image 04" },
+        { "src": "./images/01_Koh_Kradan_05.jpg", "desc": "Image 05" },
+        { "src": "./images/01_Koh_Kradan_06.jpg", "desc": "Image 06" },
+        { "src": "./images/01_Koh_Kradan_07.jpg", "desc": "Image 07" },
+        { "src": "./images/01_Koh_Kradan_08.jpg", "desc": "Image 08" },
+        { "src": "./images/01_Koh_Kradan_09.jpg", "desc": "Image 09" },
+        { "src": "./images/01_Koh_Kradan_10.jpg", "desc": "Image 10" }
+      ],
+      "beachWhen": "Oct"
+    },
+    {
+      "beachId": 2,
+      "beachCodeName": "02-Whitehaven",
+      "beachName": "Whitehaven",
+      "beachCountry": "Australia",
+      "beachRegion": "Australia",
+      "beachRating": 4.5,
+      "beachReviewTotal": 322,
+      "beachPrice": 4.2,
+      "beachContent": "Whitehaven Beach is a pristine, award winning beach on Whitsunday Island, the largest of the 74 islands in the Whitsundays. Whitehaven Beach stretches over seven kilometres and boasts brilliant ... ",
+      "beachFullContent": "Whitehaven Beach is a pristine, award winning beach on Whitsunday Island, the largest of the 74 islands in the Whitsundays. Whitehaven Beach stretches over seven kilometres and boasts brilliant white silica sand that is among the purest in the world. Sink your feet into the sand and wade into the warm waves that gently lap the shore and you'll soon realise why people come here from all over the world.\n\nAt the northern end of Whitehaven Beach is Hill Inlet, a stunning inlet where the tide shifts the sand and water to create a beautiful fusion of colours. Many people claim Hill Inlet and Whitehaven Beach are the most beautiful places they've ever seen. The lookout at Tongue Point is the best spot from which to view the swirling sands of Hill Inlet, so if you don't mind a short bushwalk, book your Whitehaven tour with an operator that visits the lookout.\n\nThe best way to get to Whitehaven Beach – which is free to visit 24 hours a day – is by boat. Power boats, luxury yachts and ferries by companies like Cruise Whitsundays and Grand Prix Yachting offer daytrips that depart daily from Shute Harbour (near Airlie Beach) or Hamilton Island. Many overnight sailing trips also make a stop at Whitehaven Beach. But if one afternoon along the ashy sands isn't enough, you can also set up camp in the eucalyptus woodland behind the beach.\n\nWhitehaven Beach can be experienced in several ways. If you're interested in a day trip there are ferries, yachts, power boats and luxury cruising yachts that depart from Airlie Beach. A variety of sailing companies also offer multi-day charters that include a memorable visit to Whitehaven Beach.",
+      "beachThumb": "./images/02_Whitehaven_01.jpg",
+      "beachImgHeader": "./images/background/02_Whitehaven_01.jpg",
+      "beachUrl": "#!02-Whitehaven",
+      "beachLocation": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d29941.19118689712!2d149.022417837782!3d-20.273390973292898!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6bd8543936f3a3a1%3A0x808bfe71f86a4e1e!2sWhitehaven%20Beach!5e0!3m2!1sen!2s!4v1659111352738!5m2!1sen!2s",
+      "beachPdf": "./pdf/02_Whitehaven.pdf",
+      "beachAds": {
+        "src": "https://www.qantas.com/us/en.html",
+        "thumb": "./images/flights/02_QantasAirways.png",
+        "desc": "Qantas Airways"
+      },
+      "beachImgFull": [
+        { "src": "./images/02_Whitehaven_01.jpg", "desc": "Image 01" },
+        { "src": "./images/02_Whitehaven_02.jpg", "desc": "Image 02" },
+        { "src": "./images/02_Whitehaven_03.jpg", "desc": "Image 03" },
+        { "src": "./images/02_Whitehaven_04.jpg", "desc": "Image 04" },
+        { "src": "./images/02_Whitehaven_05.jpg", "desc": "Image 05" },
+        { "src": "./images/02_Whitehaven_06.jpg", "desc": "Image 06" },
+        { "src": "./images/02_Whitehaven_07.jpg", "desc": "Image 07" },
+        { "src": "./images/02_Whitehaven_08.jpg", "desc": "Image 08" },
+        { "src": "./images/02_Whitehaven_09.jpg", "desc": "Image 09" },
+        { "src": "./images/02_Whitehaven_10.jpg", "desc": "Image 10" }
+      ],
+      "beachWhen": "Nov"
+    },
+    {
+      "beachId": 3,
+      "beachCodeName": "03-Anakena",
+      "beachName": "Anakena",
+      "beachCountry": "Chile",
+      "beachRegion": "South America",
+      "beachRating": 4.2,
+      "beachReviewTotal": 433,
+      "beachPrice": 3.6,
+      "beachContent": "It's not often you get to mix up a day at the beach with a viewing of some of the world's most iconic archaeological monuments, but this is exactly what you get at Anakena beach on Easter Island ... ",
+      "beachFullContent": "It's not often you get to mix up a day at the beach with a viewing of some of the world's most iconic archaeological monuments, but this is exactly what you get at Anakena beach on Easter Island.\n\nAnakena is home to a set of moai; these are the huge carved stone figureheads that Easter Island is famous for. The Ahu Nao-Nao stones at Anakena are a set of 7 such statues located right by the beach. I would have said overlooking, but they actually face inland. It is rare for any of these moai to have been set facing out to sea.\n\nAnakena has further historical significance in that it is believed to have been where Hotu Matua, the first settler of the islands, disembarked. It is said that one of the many caves along the beach was this king's home.\n\nThe beach at Anakena is composed of white coral sand and is one of only two sandy beaches on Easter Island. This pacific beach is fringed with palm trees and is almost as deep as it is wide.\n\nThe coconut palm trees at Anakena were actually reintroduced  from Tahiti as virtually all the trees on the island were cut down to make and transport the Moai. The story of Easter Island and how the islanders virtually made themselves extinct is one of history's greatest ironies and forms the storyline to the movie 1994 Rapa Nui.\n\nThere are plenty of facilities at Anakena.These include a car park, changing rooms, toilets and a picnic are amongst the palm trees - just remember to keep an ear open for the sound of falling coconuts!",
+      "beachThumb": "./images/03_Anakena_01.jpg",
+      "beachImgHeader": "./images/background/03_Anakena_01.jpg",
+      "beachUrl": "#!03-Anakena",
+      "beachLocation": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1776.309463909541!2d-109.32411829183373!3d-27.073774007467566!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9947ee566006653b%3A0xd214068c8327f5b8!2sAnakena!5e0!3m2!1sen!2s!4v1659111417138!5m2!1sen!2s",
+      "beachPdf": "./pdf/03_Anakena.pdf",
+      "beachAds": {
+        "src": "https://www.latamairlines.com/cl/es",
+        "thumb": "./images/flights/03_LATAMChile.png",
+        "desc": "LATAM Chile"
+      },
+      "beachImgFull": [
+        { "src": "./images/03_Anakena_01.jpg", "desc": "Image 01" },
+        { "src": "./images/03_Anakena_02.jpg", "desc": "Image 02" },
+        { "src": "./images/03_Anakena_03.jpg", "desc": "Image 03" },
+        { "src": "./images/03_Anakena_04.jpg", "desc": "Image 04" },
+        { "src": "./images/03_Anakena_05.jpg", "desc": "Image 05" },
+        { "src": "./images/03_Anakena_06.jpg", "desc": "Image 06" },
+        { "src": "./images/03_Anakena_07.jpg", "desc": "Image 07" },
+        { "src": "./images/03_Anakena_08.jpg", "desc": "Image 08" }
+      ],
+      "beachWhen": "Jan"
+    },
+    {
+      "beachId": 4,
+      "beachCodeName": "04-CampsBay",
+      "beachName": "Camps Bay",
+      "beachCountry": "South Africa",
+      "beachRegion": "Africa",
+      "beachRating": 3.9,
+      "beachReviewTotal": 186,
+      "beachPrice": 2.8,
+      "beachContent": "Camps Bay is without doubt Cape Town's premiere beach. Located in an upmarket suburb of this South African city, the beach here is as spectacular as it is popular ... ",
+      "beachFullContent": "Camps Bay is without doubt Cape Town's premiere beach. Located in an upmarket suburb of this South African city, the beach here is as spectacular as it is popular. The palm fringed stretch of white sand that make up Camps Bay sits between the towering Lion's Head and equally imposing Twelve Apostles. This is the Atlantic coast and the ocean here is both beautiful and powerful; sparkling and turquoise often with strong waves. Camps Bay is a great family beach too and has been consistently awarded the coveted Blue Flag award over the years.\n\nPeople visit Camps Bay as much for the chic beach life as the natural splendour. This is where celebrities come to hang out with the body beautiful - beach volleyball is a staple with the bronzed and buff beach-goers here. If you would prefer to keep your clothes on then there are plenty of trendy cafes and bars along Victoria Road, the main drag that runs behind the beach. Best known of these is the Caprice Bar, ideal if you want to spot rock stars and supermodels.",
+      "beachThumb": "./images/04_Camps_Bay_01.jpg",
+      "beachImgHeader": "./images/background/04_Camps_Bay_01.jpg",
+      "beachUrl": "#!04-CampsBay",
+      "beachLocation": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13238.30540608845!2d18.373653237086845!3d-33.95202279080731!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1dcc67ad0e328c89%3A0xc7a0b241c4464b97!2sCamps%20Bay%2C%20Cape%20Town%2C%208005%2C%20South%20Africa!5e0!3m2!1sen!2s!4v1659111474953!5m2!1sen!2s",
+      "beachPdf": "./pdf/04_Camps_Bay.pdf",
+      "beachAds": {
+        "src": "https://www.flysaa.com/",
+        "thumb": "./images/flights/04_SouthAfricanAirways.png",
+        "desc": "South African Ariways"
+      },
+      "beachImgFull": [
+        { "src": "./images/04_Camps_Bay_01.jpg", "desc": "Image 01" },
+        { "src": "./images/04_Camps_Bay_02.jpg", "desc": "Image 02" },
+        { "src": "./images/04_Camps_Bay_03.jpg", "desc": "Image 03" },
+        { "src": "./images/04_Camps_Bay_04.jpg", "desc": "Image 04" },
+        { "src": "./images/04_Camps_Bay_05.jpg", "desc": "Image 05" },
+        { "src": "./images/04_Camps_Bay_06.jpg", "desc": "Image 06" },
+        { "src": "./images/04_Camps_Bay_07.jpg", "desc": "Image 07" },
+        { "src": "./images/04_Camps_Bay_08.jpg", "desc": "Image 08" }
+      ],
+      "beachWhen": "Sep"
+    },
+    {
+      "beachId": 5,
+      "beachCodeName": "05-CalaGoloritze",
+      "beachName": "Cala Goloritzè",
+      "beachCountry": "Italy",
+      "beachRegion": "Europe",
+      "beachRating": 4.9,
+      "beachReviewTotal": 224,
+      "beachPrice": 5,
+      "beachContent": "Perhaps one of Italy's most iconic beaches, Cala Goloritzè is beautifully positioned at the base of a ravine on the north eastern coast of Sardinia. As with other beaches in the vicinity ... ",
+      "beachFullContent": "Perhaps one of Italy's most iconic beaches, Cala Goloritzè is beautifully positioned at the base of a ravine on the north eastern coast of Sardinia. As with other beaches in the vicinity, the water here is a brilliant azure blue and crystal clear whilst the beach is bleached white by the sun.\n\nBut it is the stunning limestone cliffside and rock formations that really sets Cala Goloritzè apart. Most notable of these is Monte Caroddi or the Aguglia, meaning “needle” which describes this 150m (500ft) high pinnacle fairly well. In addition the cliffs form a huge rock arch at the southern end of the beach. It is little wonder that Cala Goloritzè was listed by UNESCO in 1995.\n\nTo get to the beach is a bit of a mission and requires a lengthy trek or a boat trip (although you can't disembark on the beach itself). However, it's worth it.",
+      "beachThumb": "./images/05_Cala_Goloritze_01.jpg",
+      "beachImgHeader": "./images/background/05_Cala_Goloritze_01.jpg",
+      "beachUrl": "#!05-CalaGoloritze",
+      "beachLocation": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3051.516163594828!2d9.689316799999999!3d40.1084992!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12de5b01c791dd43%3A0x9456317912694cc3!2sCala%20Goloritze%20Beach!5e0!3m2!1sen!2s!4v1659111601961!5m2!1sen!2s",
+      "beachPdf": "./pdf/05_Cala_Goloritze.pdf",
+      "beachAds": {
+        "src": "https://www.ita-airways.com/",
+        "thumb": "./images/flights/05_ITAAirways.png",
+        "desc": "ITA Ariways"
+      },
+      "beachImgFull": [
+        { "src": "./images/05_Cala_Goloritze_01.jpg", "desc": "Image 01" },
+        { "src": "./images/05_Cala_Goloritze_02.jpg", "desc": "Image 02" },
+        { "src": "./images/05_Cala_Goloritze_03.jpg", "desc": "Image 03" },
+        { "src": "./images/05_Cala_Goloritze_04.jpg", "desc": "Image 04" },
+        { "src": "./images/05_Cala_Goloritze_05.jpg", "desc": "Image 05" },
+        { "src": "./images/05_Cala_Goloritze_06.jpg", "desc": "Image 06" },
+        { "src": "./images/05_Cala_Goloritze_07.jpg", "desc": "Image 07" },
+        { "src": "./images/05_Cala_Goloritze_08.jpg", "desc": "Image 08" }
+      ],
+      "beachWhen": "Jan"
+    },
+    {
+      "beachId": 6,
+      "beachCodeName": "06-MiamiSouth",
+      "beachName": "Miami South Beach",
+      "beachCountry": "USA",
+      "beachRegion": "North America",
+      "beachRating": 3.6,
+      "beachReviewTotal": 381,
+      "beachPrice": 4.1,
+      "beachContent": "South Beach is perhaps the ultimate urban beach. It has it all; history, style, quirkiness, class and as much partying as you want, not to mention a vast swathe of white sand beach bordering clear blue ocean ... ",
+      "beachFullContent": "South Beach is perhaps the ultimate urban beach. It has it all; history, style, quirkiness, class and as much partying as you want, not to mention a vast swathe of white sand beach bordering clear blue ocean. This is where the beautiful and rich come to play in the sunshine before hitting the nightlife of Ocean Drive after dark. South beach is brash, colorful and even a little crazy - but this is part of the attraction. One day it can be a Caribbean carnival, the next there's a polo game going on mid beach!\n\nMiami beach is actually separate to Miami city and located on its own barrier island along with North beach. Considered a city in its own right it is one of America's most established beach resorts. This can be seen in the wealth of Art Deco buildings that occupy the beachfront and provide a home to some of South Beach's cultural institutions.\n\nSouth Beach is often listed as one of Florida's nude beaches, but this is somewhat debatable. Sure, going topless is no big deal - even if, strictly speaking it isn't legal, you won't raise many eyebrows. On the downside it does attract a certain kind of wannabe ‘paparazzi' which is generally enough to put anyone off getting naked. That said, it has been known on quieter days, away from the main strip.",
+      "beachThumb": "./images/06_Miami_South_01.jpg",
+      "beachImgHeader": "./images/background/06_Miami_South_01.jpg",
+      "beachUrl": "#!06-MiamiSouth",
+      "beachLocation": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d28741.256714724757!2d-80.15271637280495!3d25.781887645901048!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88d9b48e8bc080f1%3A0x7afeece4a9efe6bd!2sSouth%20Beach%2C%20Miami%20Beach%2C%20FL%2033139%2C%20USA!5e0!3m2!1sen!2s!4v1660041119988!5m2!1sen!2s",
+      "beachPdf": "./pdf/06_Miami_South.pdf",
+      "beachAds": {
+        "src": "https://www.aa.com/",
+        "thumb": "./images/flights/06_AmericanAirlines.png",
+        "desc": "American Airlines"
+      },
+      "beachImgFull": [
+        { "src": "./images/06_Miami_South_01.jpg", "desc": "Image 01" },
+        { "src": "./images/06_Miami_South_02.jpg", "desc": "Image 02" },
+        { "src": "./images/06_Miami_South_03.jpg", "desc": "Image 03" },
+        { "src": "./images/06_Miami_South_04.jpg", "desc": "Image 04" },
+        { "src": "./images/06_Miami_South_05.jpg", "desc": "Image 05" },
+        { "src": "./images/06_Miami_South_06.jpg", "desc": "Image 06" },
+        { "src": "./images/06_Miami_South_07.jpg", "desc": "Image 07" },
+        { "src": "./images/06_Miami_South_08.jpg", "desc": "Image 08" },
+        { "src": "./images/06_Miami_South_09.jpg", "desc": "Image 09" }
+      ],
+      "beachWhen": "Mar"
+    },
+    {
+      "beachId": 7,
+      "beachCodeName": "07-Gjipe",
+      "beachName": "Gjipe Beach",
+      "beachCountry": "Albania",
+      "beachRegion": "Europe",
+      "beachRating": 4.3,
+      "beachReviewTotal": 274,
+      "beachPrice": 4.1,
+      "beachContent": "Gjipe beach is set along the same stretch of the Albanian coast as some of the other most popular, highly rated beaches on the Riviera. Located between the resort beaches of Drymades and Himara ... ",
+      "beachFullContent": "Gjipe beach is set along the same stretch of the Albanian coast as some of the other most popular, highly rated beaches on the Riviera. Located between the resort beaches of Drymades and Himara the beach at Gjipe has barely been touched by development.\n\nObscured by the mountainous terrain, the beach here sits at the end of the Gjipe Canyon, an impressive natural feature with the rock formations reaching up to 70 metres high in some places. If you fancy it you can hike for a couple of kilometres up the canyon, but it is relatively hard going. To get to the beach is a bit of a hike and this helps keep the beach relatively quiet even in the depths of summer.\n\nLike with other beaches on the Albanian Riviera, Gjipe has warm crystal clear azure water with the beach itself consisting of fine white pebbles. Despite its seclusion and the 20 minute walk down to the beach there are a few basic facilities including sun loungers and parasols. There is also a small wagon selling snacks and drinks.\n\nAt present the Albanian Riviera is only just coming to the attention of the wider world and Gjipe beach is still off the tourist radar. However, given its natural beauty it seems unlikely it will stay this way forever …",
+      "beachThumb": "./images/07_Gjipe_01.jpg",
+      "beachImgHeader": "./images/background/07_Gjipe_01.jpg",
+      "beachUrl": "#!07-Gjipe",
+      "beachLocation": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3050.686664387331!2d19.66828471523507!3d40.12698578113431!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x135b2eaf2f04db0b%3A0x402d26a0191d115!2sGjipe%20Beach!5e0!3m2!1sen!2s!4v1660047826805!5m2!1sen!2s",
+      "beachPdf": "./pdf/07_Gjipe.pdf",
+      "beachAds": {
+        "src": "https://www.airalbania.com.al/",
+        "thumb": "./images/flights/07_AirAlbania.png",
+        "desc": "Air Albania"
+      },
+      "beachImgFull": [
+        { "src": "./images/07_Gjipe_01.jpg", "desc": "Image 01" },
+        { "src": "./images/07_Gjipe_02.jpg", "desc": "Image 02" },
+        { "src": "./images/07_Gjipe_03.jpg", "desc": "Image 03" },
+        { "src": "./images/07_Gjipe_04.jpg", "desc": "Image 04" },
+        { "src": "./images/07_Gjipe_05.jpg", "desc": "Image 05" },
+        { "src": "./images/07_Gjipe_06.jpg", "desc": "Image 06" },
+        { "src": "./images/07_Gjipe_07.jpg", "desc": "Image 07" },
+        { "src": "./images/07_Gjipe_08.jpg", "desc": "Image 08" },
+        { "src": "./images/07_Gjipe_09.jpg", "desc": "Image 09" }
+      ],
+      "beachWhen": "Feb"
+    },
+    {
+      "beachId": 8,
+      "beachCodeName": "08-SanJosefBay",
+      "beachName": "San Josef Bay",
+      "beachCountry": "Canada",
+      "beachRegion": "North America",
+      "beachRating": 4.6,
+      "beachReviewTotal": 189,
+      "beachPrice": 4.3,
+      "beachContent": "Located at the northern end of Vancouver Island within Cape Scott Provincial Park, San Josef Bay boasts a beach of near-white sand in natural unspoiled surrounds. Lacking cell phone coverage, you'll need to be prepared for all eventualities ... ",
+      "beachFullContent": "Located at the northern end of Vancouver Island within Cape Scott Provincial Park, San Josef Bay boasts a beach of near-white sand in natural unspoiled surrounds. Lacking cell phone coverage, you'll need to be prepared for all eventualities, which include a 45 minute easy hike along a well-maintained gravel trail from the nearest parking, as well as regularly sightings of bears and wolves.\n\nThe most accessible of Cape Scott's beaches, it is backed by pristine temperate rainforest. It's possible to camp overnight on the very soft sand for a small fee, increasing the chances of being able to explore the sea stacks and caves found on the right-hand side of San Josef Bay as you look at the ocean. They can only be reached at low tide.\n\nSwimming, and even surfing, are also possible from San Josef Bay, but you are very much on your own. First-time visitors should be aware that there are no facilities of any kind on or around the beach except for bear-proof central food stores at campsites.",
+      "beachThumb": "./images/08_San_Josef_Bay_01.jpg",
+      "beachImgHeader": "./images/background/08_San_Josef_Bay_01.jpg",
+      "beachUrl": "#!08-SanJosefBay",
+      "beachLocation": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d10112.062328788339!2d-128.27560475910022!3d50.68253576811188!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x54641674c03ffcb1%3A0xf1e93baf9b304448!2sSan%20Josef%20Bay%2C%20BC%20V0N%201Z0%2C%20Canada!5e0!3m2!1sen!2suk!4v1660053712816!5m2!1sen!2suk",
+      "beachPdf": "./pdf/08_San_Josef_Bay.pdf",
+      "beachAds": {
+        "src": "https://www.aircanada.com/",
+        "thumb": "./images/flights/08_AirCanada.png",
+        "desc": "Air Canada"
+      },
+      "beachImgFull": [
+        { "src": "./images/08_San_Josef_Bay_01.jpg", "desc": "Image 01" },
+        { "src": "./images/08_San_Josef_Bay_02.jpg", "desc": "Image 02" },
+        { "src": "./images/08_San_Josef_Bay_03.jpg", "desc": "Image 03" },
+        { "src": "./images/08_San_Josef_Bay_04.jpg", "desc": "Image 04" },
+        { "src": "./images/08_San_Josef_Bay_05.jpg", "desc": "Image 05" },
+        { "src": "./images/08_San_Josef_Bay_06.jpg", "desc": "Image 06" },
+        { "src": "./images/08_San_Josef_Bay_07.jpg", "desc": "Image 07" },
+        { "src": "./images/08_San_Josef_Bay_08.jpg", "desc": "Image 08" },
+        { "src": "./images/08_San_Josef_Bay_09.jpg", "desc": "Image 09" },
+        { "src": "./images/08_San_Josef_Bay_10.jpg", "desc": "Image 10" }
+      ],
+      "beachWhen": "Jun"
+    },
+    {
+      "beachId": 9,
+      "beachCodeName": "09-WhiteBeach",
+      "beachName": "White Beach",
+      "beachCountry": "Philippines",
+      "beachRegion": "Asia",
+      "beachRating": 4.2,
+      "beachReviewTotal": 276,
+      "beachPrice": 2.9,
+      "beachContent": "The main attraction of White Beach is of course its beauty but also that you have everything you need there: hotels, restaurants, nightlife, activities, it's all available right in front of the beach ... ",
+      "beachFullContent": "The main attraction of White Beach is of course its beauty but also that you have everything you need there: hotels, restaurants, nightlife, activities, it's all available right in front of the beach.It's a very good place for swimming as well, since the water is usually flat, has no current and becomes deep slowly. During morning and noon times the beach is relatively quiet. These are good times to go out if you like to have the beach more to yourself. \n\nIn the afternoon more people start to come to the beach and you'll see locals and tourists alike starting to play sports. Volleyball is by far the most popular beach-sport on Boracay, but soccer is played as well (mostly in Station 1 since the beach is wider there). The sun sets around 6:00 pm all year round. It's the busiest time on the beach with lots of people taking pictures and enjoying the view. In the evening the beach path gets busy with a lot of people visiting restaurants. Then at around 9-10 the nightlife kicks in and the bars become busy. Around midnight the bars quickly become quiet again as most people move from the bars to the clubs. The beach has 2 parts that run parallel to each other: “the path” and the beach itself. The path runs along the buildings that sit in front of the beach and is separated from the beach itself by palm trees.",
+      "beachThumb": "./images/09_White_Beach_01.jpg",
+      "beachImgHeader": "./images/background/09_White_Beach_01.jpg",
+      "beachUrl": "#!09-WhiteBeach",
+      "beachLocation": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15613.273572000491!2d121.929614!3d11.9524438!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x33a53c22c3a8466b%3A0x443e5166ae9cf4b2!2sWhite%20Beach!5e0!3m2!1svi!2s!4v1659680237751!5m2!1svi!2s",
+      "beachPdf": "./pdf/09_White_Beach.pdf",
+      "beachAds": {
+        "src": "https://www.philippineairlines.com/",
+        "thumb": "./images/flights/09_PhilippineAirlines.png",
+        "desc": "Philippine Airlines"
+      },
+      "beachImgFull": [
+        { "src": "./images/09_White_Beach_01.jpg", "desc": "Image_01" },
+        { "src": "./images/09_White_Beach_02.jpg", "desc": "Image_02" },
+        { "src": "./images/09_White_Beach_03.jpg", "desc": "Image_03" },
+        { "src": "./images/09_White_Beach_04.jpg", "desc": "Image_04" },
+        { "src": "./images/09_White_Beach_05.jpg", "desc": "Image_05" },
+        { "src": "./images/09_White_Beach_06.jpg", "desc": "Image_06" },
+        { "src": "./images/09_White_Beach_07.jpg", "desc": "Image_07" },
+        { "src": "./images/09_White_Beach_08.jpg", "desc": "Image_08" },
+        { "src": "./images/09_White_Beach_09.jpg", "desc": "Image_09" },
+        { "src": "./images/09_White_Beach_10.jpg", "desc": "Image_10" }
+      ],
+      "beachWhen": "Feb"
+    },
+    {
+      "beachId": 10,
+      "beachCodeName": "10-Copacabana",
+      "beachName": "Copacabana",
+      "beachCountry": "Brazil",
+      "beachRegion": "South America",
+      "beachRating": 4.8,
+      "beachReviewTotal": 122,
+      "beachPrice": 3.2,
+      "beachContent": "A magnificent confluence of land and sea, the long, scalloped beach of Copacabana extends for some 4km, with a flurry of activity along its length: over-amped soccer players singing their team's anthem;  ... ",
+      "beachFullContent": "magnificent confluence of land and sea, the long, scalloped beach of Copacabana extends for some 4km, with a flurry of activity along its length: over-amped soccer players singing their team's anthem; cariocas (Rio residents) and tourists lining up for caipirinhas at kiosks; favela kids showing off their soccer skills; and beach vendors shouting out their wares among the tanned beach bodies.\n\nEach group stakes out its stretch of sand. The area between the Copacabana Palace hotel and Rua Fernando Mendes is the gay and cross-dresser section, known as the Stock or Stock Market – easily recognized by the rainbow flag. Young football and futevôlei (soccer volleyball) players hold court near Rua Santa Clara. Postos 5 and 6 are a mix of favela kids and carioca retirees, while the spot next to Forte de Copacabana is the colônia dos pescadores (fishermen's colony). As Copacabana Beach curves north you get into the quieter sands of Leme (Av Princesa Isabel forms the demarcation between the two neighborhoods). Here you'll find a mix of older Leme residents as well as kids from the nearby favelas of Babilônia and Chapeu Mangueira.\n\nThe beach is lit at night and there are police in the area, but it's still not wise to walk there after dark – stay near the liveliest beach kiosks when venturing out. Av NS de Copacabana is also sketchy – watch out on weekends, when the shops are closed and there are few locals around.",
+      "beachThumb": "./images/10_Copacabana_01.jpg",
+      "beachImgHeader": "./images/background/10_Copacabana_01.jpg",
+      "beachUrl": "#!10-Copacabana",
+      "beachLocation": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14693.237426752488!2d-43.182016!3d-22.975648999999997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9bd54579a5956b%3A0xa102deeaffcb3e3!2sCopacabana%20Beach!5e0!3m2!1svi!2s!4v1659681931142!5m2!1svi!2s",
+      "beachPdf": "./pdf/10_Copacabana.pdf",
+      "beachAds": {
+        "src": "https://www.latamairlines.com/",
+        "thumb": "./images/flights/10_BrazilAirlines.png",
+        "desc": "Brazil Airlines"
+      },
+      "beachImgFull": [
+        { "src": "./images/10_Copacabana_01.jpg", "desc": "Image_01" },
+        { "src": "./images/10_Copacabana_02.jpg", "desc": "Image_02" },
+        { "src": "./images/10_Copacabana_03.jpg", "desc": "Image_03" },
+        { "src": "./images/10_Copacabana_04.jpg", "desc": "Image_04" },
+        { "src": "./images/10_Copacabana_05.jpg", "desc": "Image_05" },
+        { "src": "./images/10_Copacabana_06.jpg", "desc": "Image_06" },
+        { "src": "./images/10_Copacabana_07.jpg", "desc": "Image_07" },
+        { "src": "./images/10_Copacabana_08.jpg", "desc": "Image_08" },
+        { "src": "./images/10_Copacabana_09.jpg", "desc": "Image_09" },
+        { "src": "./images/10_Copacabana_10.jpg", "desc": "Image_10" }
+      ],
+      "beachWhen": "Aug"
+    },
+    {
+      "beachId": 11,
+      "beachCodeName": "11-Waikiki",
+      "beachName": "Waikiki",
+      "beachCountry": "Hawaii",
+      "beachRegion": "North America",
+      "beachRating": 4.8,
+      "beachReviewTotal": 267,
+      "beachPrice": 4.6,
+      "beachContent": "For those who love the beach, look no further than Waikiki. With its long stretch of white sand and turquoise blue water, everyone enjoys this paradise for swimming, surfing, snorkeling, and more... ",
+      "beachFullContent": "For those who love the beach, look no further than Waikiki. With its long stretch of white sand and turquoise blue water, everyone enjoys this paradise for swimming, surfing, snorkeling, and more. From Hilton Hawaiian Village on the west side to Kapi'olani Park in the east, Waikiki boasts a beautiful tropical climate with tons of activities and events for all ages. Find more high-rises, high-end restaurants, and resorts pepper along this popular destination's borders.\n\nWaikiki, which means spouting waters in Hawaiian, holds a beautiful history for great water activities in Hawaiian culture. For instance, in the 1800s, the Hawaiian royals created Waikiki into their playground-where they enjoyed surfing on longboards. Today, the longboard tradition continues, as the water here provides the best conditions.  Eventually, the royals initiated several launching of smaller hotels in the 1800s. By 1901, they launched their first large hotel, the Moana Surfrider  Other historic hotels dating back to the early 20th century include the beautiful Royal Hawaiian Hotel. Today, the area boasts every kind of accommodation to cater to the tourists drawn to Waikiki Beach every year.",
+      "beachThumb": "./images/11_Waikiki_01.jpg",
+      "beachImgHeader": "./images/background/11_Waikiki_01.jpg",
+      "beachUrl": "#!11-Waikiki",
+      "beachLocation": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14871.124384694827!2d-157.83269825!3d21.28013095!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7c006df4e5c129af%3A0x4633ddc52a688878!2sWaikiki%2C%20Honolulu%2C%20Hawaii%2096815%2C%20Hoa%20K%E1%BB%B3!5e0!3m2!1svi!2s!4v1659681817747!5m2!1svi!2s",
+      "beachPdf": "./pdf/11_Waikiki.pdf",
+      "beachAds": {
+        "src": "https://www.hawaiianairlines.com/",
+        "thumb": "./images/flights/11_HawaiiAirlines.png",
+        "desc": "Hawaii Airlines"
+      },
+      "beachImgFull": [
+        { "src": "./images/11_Waikiki_01.jpg", "desc": "Image_01" },
+        { "src": "./images/11_Waikiki_02.jpg", "desc": "Image_02" },
+        { "src": "./images/11_Waikiki_03.jpg", "desc": "Image_03" },
+        { "src": "./images/11_Waikiki_04.jpg", "desc": "Image_04" },
+        { "src": "./images/11_Waikiki_05.jpg", "desc": "Image_05" },
+        { "src": "./images/11_Waikiki_06.jpg", "desc": "Image_06" },
+        { "src": "./images/11_Waikiki_07.jpg", "desc": "Image_07" },
+        { "src": "./images/11_Waikiki_08.jpg", "desc": "Image_08" },
+        { "src": "./images/11_Waikiki_09.jpg", "desc": "Image_09" },
+        { "src": "./images/11_Waikiki_10.jpg", "desc": "Image_10" }
+      ],
+      "beachWhen": "May"
+    },
+    {
+      "beachId": 12,
+      "beachCodeName": "12-BelleMareBeach",
+      "beachName": "Belle Mare Beach",
+      "beachCountry": "Mauritius",
+      "beachRegion": "Africa",
+      "beachRating": 4.5,
+      "beachReviewTotal": 236,
+      "beachPrice": 3.7,
+      "beachContent": "The beach at Belle Mare is located near the town of Mahebourg on the South East coast of Mauritius, between Belle Mare and Pointe de Flacq.... ",
+      "beachFullContent": "The beach at Belle Mare is located near the town of Mahebourg on the South East coast of Mauritius, between Belle Mare and Pointe de Flacq. By visiting the beach you will find long stretches of sandy pristine white, turquoise sea with crystal clear water surrounded by large casuarina trees. The beach is surrounded by unspoilt nature as there has been little development on this side of the island except for the hotels and few luxury villas.\n\nThe beach at Belle Mare is considered as the most beautiful beach in Mauritius by many holiday makers, but also remains very popular among the inhabitants of the island who visit the beach mainly on weekends and holidays. This part of the island is very authentic and keeps the spirit of the island intact facing the rapid development that know the other cities in the coastal regions in particular Grand Bay, Flic en Flac and Black River.\n\nThe Belle Mare beach is ideal for swimming and diving session especially on weekdays, the beach is calm with a peaceful setting. The perfect place for nature lovers, who can enjoy miles of sandy beach for sunbathing and resting in the shade of casuarina trees.\n\nThe nudist is prohibited, but topless sunbathing is accepted. The best time to visit the beach of Belle Mare is early in the morning from 7:00 to 11:00 or in the afternoon from 13:00 to 17:00.",
+      "beachThumb": "./images/12_Belle_Mare_Beach_01.jpg",
+      "beachImgHeader": "./images/background/12_Belle_Mare_Beach_01.jpg",
+      "beachUrl": "#!12-BelleMareBeach",
+      "beachLocation": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14979.332122165648!2d57.7741688!3d-20.1826764!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xbe22e5eb9d0dcc78!2sBelle%20Mare%20Public%20Beach!5e0!3m2!1sen!2s!4v1660101644446!5m2!1sen!2s",
+      "beachPdf": "./pdf/12_Belle_Mare_Beach.pdf",
+      "beachAds": {
+        "src": "https://www.airmauritius.com/",
+        "thumb": "./images/flights/12_MauritiusAirlines.png",
+        "desc": "Mauritius Airlines"
+      },
+      "beachImgFull": [
+        { "src": "./images/12_Belle_Mare_Beach_01.jpg", "desc": "Image_01" },
+        { "src": "./images/12_Belle_Mare_Beach_02.jpg", "desc": "Image_02" },
+        { "src": "./images/12_Belle_Mare_Beach_03.jpg", "desc": "Image_03" },
+        { "src": "./images/12_Belle_Mare_Beach_04.jpg", "desc": "Image_04" },
+        { "src": "./images/12_Belle_Mare_Beach_05.jpg", "desc": "Image_05" },
+        { "src": "./images/12_Belle_Mare_Beach_06.jpg", "desc": "Image_06" },
+        { "src": "./images/12_Belle_Mare_Beach_07.jpg", "desc": "Image_07" },
+        { "src": "./images/12_Belle_Mare_Beach_08.jpg", "desc": "Image_08" },
+        { "src": "./images/12_Belle_Mare_Beach_09.jpg", "desc": "Image_09" },
+        { "src": "./images/12_Belle_Mare_Beach_10.jpg", "desc": "Image_10" }
+      ],
+      "beachWhen": "Jul"
+    },
+    {
+      "beachId": 13,
+      "beachCodeName": "13-OludenizBeach",
+      "beachName": "Oludeniz Beach",
+      "beachCountry": "Turkey",
+      "beachRegion": "Europe",
+      "beachRating": 4.9,
+      "beachReviewTotal": 186,
+      "beachPrice": 4.8,
+      "beachContent": "Oludeniz Blue Lagoon Turkey is a wondrous place famous for its beautiful beaches and historical sights. It should be mentioned that the Blue Lagoon part of the Oludeniz beach resort is a rather quiet and peaceful place... ",
+      "beachFullContent": "Oludeniz Blue Lagoon Turkey is a wondrous place famous for its beautiful beaches and historical sights. It should be mentioned that the Blue Lagoon part of the Oludeniz beach resort is a rather quiet and peaceful place, so you won't find some noisy clubs and shows with much loud in the night time. In fact, tourists come here for other reasons.\n\nDuring the holidays in Oludeniz Turkey you should definitely visit its beaches, there are 3 main ones. You can choose between 3 zones of a beach – free municipal beach zone and paid zone which is situated a bit closer to the Oludeniz Blue Lagoon beach. You can swim to the mini island and watch beautiful yachts or you can rent speed boat in Oludeniz or kayak and have a good time. If you seek more intimate atmosphere you should visit Kidrak beach which is never over-crowded, even when the season is high.  Oludeniz beach holidays will stay in your memory forever as the time of your life! Oludeniz sea temperature is good for swimming from May till October.",
+      "beachThumb": "./images/13_Oludeniz_Beach_01.jpg",
+      "beachImgHeader": "./images/background/13_Oludeniz_Beach_01.jpg",
+      "beachUrl": "#!13-OludenizBeach",
+      "beachLocation": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12820.793004369834!2d29.114999999999995!3d36.5493325!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14c04098bb416971%3A0x3ed8d9c9cbf81ec9!2zw5Zsw7xkZW5peiwgRmV0aGl5ZS9NdcSfbGEsIFRo4buVIE5oxKkgS-G7sw!5e0!3m2!1svi!2s!4v1659685586502!5m2!1svi!2s",
+      "beachPdf": "./pdf/13_Oludeniz_Beach.pdf",
+      "beachAds": {
+        "src": "https://www.turkishairlines.com/",
+        "thumb": "./images/flights/13_TurkeyAirlines.png",
+        "desc": "Turkey Airlines"
+      },
+      "beachImgFull": [
+        { "src": "./images/13_Oludeniz_Beach_01.jpg", "desc": "Image_01" },
+        { "src": "./images/13_Oludeniz_Beach_02.jpg", "desc": "Image_02" },
+        { "src": "./images/13_Oludeniz_Beach_03.jpg", "desc": "Image_03" },
+        { "src": "./images/13_Oludeniz_Beach_04.jpg", "desc": "Image_04" },
+        { "src": "./images/13_Oludeniz_Beach_05.jpg", "desc": "Image_05" },
+        { "src": "./images/13_Oludeniz_Beach_06.jpg", "desc": "Image_06" },
+        { "src": "./images/13_Oludeniz_Beach_07.jpg", "desc": "Image_07" },
+        { "src": "./images/13_Oludeniz_Beach_08.jpg", "desc": "Image_08" },
+        { "src": "./images/13_Oludeniz_Beach_09.jpg", "desc": "Image_09" },
+        { "src": "./images/13_Oludeniz_Beach_10.jpg", "desc": "Image_10" }
+      ],
+      "beachWhen": "Apr"
+    },
+    {
+      "beachId": 14,
+      "beachCodeName": "14-SurfersParadiseBeach",
+      "beachName": "Surfers Paradise Beach",
+      "beachCountry": "Queensland",
+      "beachRegion": "Australia",
+      "beachRating": 4.9,
+      "beachReviewTotal": 296,
+      "beachPrice": 4.8,
+      "beachContent": "Australia's famous Surfers Paradise Beach lies at the heart of Queensland's Gold Coast. Swim and surf along the expansive beaches with this two kilometre stretch of golden sand and rolling surf patrolled by three lifeguard towers... ",
+      "beachFullContent": "Australia's famous Surfers Paradise Beach lies at the heart of Queensland's Gold Coast. Swim and surf along the expansive beaches with this two kilometre stretch of golden sand and rolling surf patrolled by three lifeguard towers, all keeping watch over designated swimming and surfing areas.\n\nRiding a wave here sits highly on the bucket list of holiday makers and made simple with hire boards and surf lessons available and beach breaks extending the full length of the beach. The best conditions for more experienced surfers are on the outer bar with moderate swell and offshore winds.\n\nThe beach itself is backed by a fenced fore-dune with plenty of signed access tracks from the esplanade to the sand and lined in seating areas and barbecues with ocean views for those wanting to just take it all in. The adjacent foreshore precinct is a hive of energy and home to towering beachside accommodation, alfresco dining and night markets.",
+      "beachThumb": "./images/14_Surfers_Paradise_Beach_01.jpg",
+      "beachImgHeader": "./images/background/14_Surfers_Paradise_Beach_01.jpg",
+      "beachUrl": "#!14-SurfersParadiseBeach",
+      "beachLocation": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7045.764285674957!2d153.43135479999998!3d-27.997502!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6b91057374bb8237%3A0x67437f8b978317a9!2sSurfers%20Paradise%20Beach!5e0!3m2!1svi!2s!4v1659683952524!5m2!1svi!2s",
+      "beachPdf": "./pdf/14_Surfers_Paradise_Beach.pdf",
+      "beachAds": {
+        "src": "https://www.qantas.com/",
+        "thumb": "./images/flights/14_QueenslandAirlines.png",
+        "desc": "Queensland Airlines"
+      },
+      "beachImgFull": [
+        {
+          "src": "./images/14_Surfers_Paradise_Beach_01.jpg",
+          "desc": "Image_01"
+        },
+        {
+          "src": "./images/14_Surfers_Paradise_Beach_02.jpg",
+          "desc": "Image_02"
+        },
+        {
+          "src": "./images/14_Surfers_Paradise_Beach_03.jpg",
+          "desc": "Image_03"
+        },
+        {
+          "src": "./images/14_Surfers_Paradise_Beach_04.jpg",
+          "desc": "Image_04"
+        },
+        {
+          "src": "./images/14_Surfers_Paradise_Beach_05.jpg",
+          "desc": "Image_05"
+        },
+        {
+          "src": "./images/14_Surfers_Paradise_Beach_06.jpg",
+          "desc": "Image_06"
+        },
+        {
+          "src": "./images/14_Surfers_Paradise_Beach_07.jpg",
+          "desc": "Image_07"
+        },
+        {
+          "src": "./images/14_Surfers_Paradise_Beach_08.jpg",
+          "desc": "Image_08"
+        },
+        {
+          "src": "./images/14_Surfers_Paradise_Beach_09.jpg",
+          "desc": "Image_09"
+        },
+        {
+          "src": "./images/14_Surfers_Paradise_Beach_10.jpg",
+          "desc": "Image_10"
+        }
+      ],
+      "beachWhen": "Sep"
+    },
+    {
+      "beachId": 15,
+      "beachCodeName": "15-NhaTrangBeach",
+      "beachName": "Nha Trang Beach",
+      "beachCountry": "Viet Nam",
+      "beachRegion": "Asia",
+      "beachRating": 4.4,
+      "beachReviewTotal": 276,
+      "beachPrice": 1.6,
+      "beachContent": "Nha Trang Beach is the most famous beach in Vietnam for both blissful nature and the touristy enthusiastic atmosphere. It takes 1.5 hours to fly to Nha Trang from Hanoi, and a mere 35 minutes from Ho Chi Minh City... ",
+      "beachFullContent": "Nha Trang Beach is the most famous beach in Vietnam for both blissful nature and the touristy enthusiastic atmosphere. It takes 1.5 hours to fly to Nha Trang from Hanoi, and a mere 35 minutes from Ho Chi Minh City.\n\nThe rather peaceful yet energetic modern city brimming with tall green mountains in the background lie along the gently curved stretch of dazzling white sand . This perfect combination of human construction and natural beauty comes together with the amazingly clear water, colliding with the vast blue sky at the faraway horizon, which makes up the one of most spectacular settings of the country. Owing to the demand for tourism, the beachfront has gone under many makeovers for the past few years, with well looked after pretty parks, interestingly creative sculpture gardens and long lines of neatly prune trees rarely seen anywhere else spread along the shorefront. These parks and gardens serve as an ideal alternative to the beach as a place for a romantic long walk.",
+      "beachThumb": "./images/15_Nha_Trang_Beach_01.jpg",
+      "beachImgHeader": "./images/background/15_Nha_Trang_Beach_01.jpg",
+      "beachUrl": "#!15-NhaTrangBeach",
+      "beachLocation": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d62386.712933079034!2d109.17239888868556!3d12.236796015131238!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31706770f4958433%3A0xf09b18bfbf27bde7!2zQsOjaSBiaeG7g24gTmhhIFRyYW5n!5e0!3m2!1svi!2s!4v1659684542679!5m2!1svi!2s",
+      "beachPdf": "./pdf/15_Nha_Trang_Beach.pdf",
+      "beachAds": {
+        "src": "https://www.vietnamairlines.com/",
+        "thumb": "./images/flights/15_VietNamAirlines.png",
+        "desc": "Viet Nam Airlines"
+      },
+      "beachImgFull": [
+        { "src": "./images/15_Nha_Trang_Beach_01.jpg", "desc": "Image_01" },
+        { "src": "./images/15_Nha_Trang_Beach_02.jpg", "desc": "Image_02" },
+        { "src": "./images/15_Nha_Trang_Beach_03.jpg", "desc": "Image_03" },
+        { "src": "./images/15_Nha_Trang_Beach_04.jpg", "desc": "Image_04" },
+        { "src": "./images/15_Nha_Trang_Beach_05.jpg", "desc": "Image_05" },
+        { "src": "./images/15_Nha_Trang_Beach_06.jpg", "desc": "Image_06" },
+        { "src": "./images/15_Nha_Trang_Beach_07.jpg", "desc": "Image_07" },
+        { "src": "./images/15_Nha_Trang_Beach_08.jpg", "desc": "Image_08" },
+        { "src": "./images/15_Nha_Trang_Beach_09.jpg", "desc": "Image_09" },
+        { "src": "./images/15_Nha_Trang_Beach_10.jpg", "desc": "Image_10" }
+      ],
+      "beachWhen": "Jul"
+    },
+    {
+      "beachId": 16,
+      "beachCodeName": "16-PinkBeach",
+      "beachName": "Pink Beach",
+      "beachCountry": "Indonesia",
+      "beachRegion": "Asia",
+      "beachRating": 4.6,
+      "beachReviewTotal": 376,
+      "beachPrice": 2.8,
+      "beachContent": "Pink Beach, or Pantai Merah, as it is aptly named, is one of seven pink beaches on the planet, and is just one of the many amazing features of Komodo Island that make it truly a Natural Wonder of Nature... ",
+      "beachFullContent": "Pink Beach, or Pantai Merah, as it is aptly named, is one of seven pink beaches on the planet, and is just one of the many amazing features of Komodo Island that make it truly a Natural Wonder of Nature. This exceptional beach gets its striking color from microscopic animals called Foraminifera, which produces a red pigment on the coral reefs. For this reason, it is called Red Beach in the local tongue. When the tiny fragments of red coral combine with the white sands, this produces the soft pink color that is visible along the shoreline. Aside from Pink Beach itself, a few small segments along Komodo's eastern bay also have a pinkish tint.\n\nLocated immediately west of Flores island in East Nusa Tenggara , Komodo Island is one of three larger and many islets that make up the Komodo National Park and is particularly well-known as the natural habitat of the Komodo dragon. The Komodo Dragon is the largest living lizard, and takes its name after the island.",
+      "beachThumb": "./images/16_Pink_Beach_01.jpg",
+      "beachImgHeader": "./images/background/16_Pink_Beach_01.jpg",
+      "beachUrl": "#!16-PinkBeach",
+      "beachLocation": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15769.03978435819!2d116.5622498!3d-8.855374099999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dcc4e8b7d3e1b23%3A0xf558da0a9b5eef39!2sPink%20Beach!5e0!3m2!1svi!2s!4v1659685246131!5m2!1svi!2s",
+      "beachPdf": "./pdf/16_Pink_Beach.pdf",
+      "beachAds": {
+        "src": "https://www.garuda-indonesia.com/",
+        "thumb": "./images/flights/16_IndonesiaAirlines.png",
+        "desc": "Garuda Indonesia"
+      },
+      "beachImgFull": [
+        { "src": "./images/16_Pink_Beach_01.jpg", "desc": "Image_01" },
+        { "src": "./images/16_Pink_Beach_02.jpg", "desc": "Image_02" },
+        { "src": "./images/16_Pink_Beach_03.jpg", "desc": "Image_03" },
+        { "src": "./images/16_Pink_Beach_04.jpg", "desc": "Image_04" },
+        { "src": "./images/16_Pink_Beach_05.jpg", "desc": "Image_05" },
+        { "src": "./images/16_Pink_Beach_06.jpg", "desc": "Image_06" },
+        { "src": "./images/16_Pink_Beach_07.jpg", "desc": "Image_07" },
+        { "src": "./images/16_Pink_Beach_08.jpg", "desc": "Image_08" },
+        { "src": "./images/16_Pink_Beach_09.jpg", "desc": "Image_09" },
+        { "src": "./images/16_Pink_Beach_10.jpg", "desc": "Image_10" }
+      ],
+      "beachWhen": "Dec"
+    },
+    {
+      "beachId": 17,
+      "beachCodeName": "17-NavagioBeach",
+      "beachName": "Navagio Beach",
+      "beachCountry": "Greece",
+      "beachRegion": "Europe",
+      "beachRating": 4.8,
+      "beachReviewTotal": 136,
+      "beachPrice": 4.6,
+      "beachContent": "The beach of Navagio or Shipwreck cove is the most famous beach of Zakynthos lying on the western side of the Ionian island, close to Anafotiria village.... ",
+      "beachFullContent": "The beach of Navagio or Shipwreck cove is the most famous beach of Zakynthos lying on the western side of the Ionian island, close to Anafotiria village. The Shipwreck is one of the most photographed sights in Greece. It is considered as one of the most beautiful beaches in Greece. It was initially called Agios Georgios but owes its new name to the shipwreck of a boat that transported illegal cigarettes, in 1983. The ship was washed ashore.\n\nThe ship in question was the Panagiotis and it is believed that it was a smugglers ship that ran aground in stormy weather whilst trying to elude the Greek customs. Now the wreck lies half buried in the fine sand at the foot of the sheer limestone cliffs which rise out of the clear blue waters.",
+      "beachThumb": "./images/17_Navagio_Beach_01.jpg",
+      "beachImgHeader": "./images/background/17_Navagio_Beach_01.jpg",
+      "beachUrl": "#!17-NavagioBeach",
+      "beachLocation": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d6300.069954818998!2d20.624428!3d37.859472!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xf4fe54875f0f22b7!2zMzfCsDUxJzM0LjEiTiAyMMKwMzcnMjcuOSJF!5e0!3m2!1sen!2sus!4v1660049908260!5m2!1sen!2sus",
+      "beachPdf": "./pdf/17_Navagio_Beach.pdf",
+      "beachAds": {
+        "src": "https://www.olympicair.com/",
+        "thumb": "./images/flights/17_olympicair.png",
+        "desc": "Olympic Air"
+      },
+      "beachImgFull": [
+        { "src": "./images/17_Navagio_Beach_01.jpg", "desc": "Image_01" },
+        { "src": "./images/17_Navagio_Beach_02.jpg", "desc": "Image_02" },
+        { "src": "./images/17_Navagio_Beach_03.jpg", "desc": "Image_03" },
+        { "src": "./images/17_Navagio_Beach_04.jpg", "desc": "Image_04" },
+        { "src": "./images/17_Navagio_Beach_05.jpg", "desc": "Image_05" },
+        { "src": "./images/17_Navagio_Beach_06.jpg", "desc": "Image_06" },
+        { "src": "./images/17_Navagio_Beach_07.jpg", "desc": "Image_07" },
+        { "src": "./images/17_Navagio_Beach_08.jpg", "desc": "Image_08" }
+      ],
+      "beachWhen": "Jun"
+    },
+    {
+      "beachId": 18,
+      "beachCodeName": "18-IpanemaBeach",
+      "beachName": "Ipanema Beach",
+      "beachCountry": "Brazil",
+      "beachRegion": "South America",
+      "beachRating": 4.6,
+      "beachReviewTotal": 112,
+      "beachPrice": 4.3,
+      "beachContent": "One long stretch of sun-drenched sand, Ipanema Beach is demarcated by postos (postos), which mark off subcultures as diverse as the city itself.... ",
+      "beachFullContent": "One long stretch of sun-drenched sand, Ipanema Beach is demarcated by postos (postos), which mark off subcultures as diverse as the city itself. Postos 9, right off Rua Vinícius de Moraes, is where Rio's most lithe and tanned bodies migrate. The area is also known as Cemetério dos Elefantes because of the handful of old leftists, hippies and artists who sometimes hang out there. In front of Rua Farme de Amoedo is Praia Farme, the stomping ground for gay society.\n\nPostos 8 further east is mostly the domain of favela kids. Arpoador, between Ipanema and Copacabana, is Rio's most popular surf spot.\n\nLeblon attracts a broad mix of single cariocas (residents of Rio), as well as families from the neighborhood. Postos 10 is for sports lovers, where there are ongoing games of volleyball, soccer and frescobol (beach tennis played with wooden rackets and a rubber ball).\n\nWhatever spot you choose, you'll enjoy cleaner sands and sea than those in Copacabana. Keep in mind that if you go on a Saturday or Sunday, the sands get crowded. Go early to stake out a spot.\n\nThe word Ipanema is an indigenous word for ‘bad, dangerous waters,' which is not far off, given the strong undertow and often oversized waves that crash onto the shore. Be careful, and swim only where locals do.",
+      "beachThumb": "./images/18_Ipanema_Beach_02.jpg",
+      "beachImgHeader": "./images/background/18_Ipanema_Beach_01.jpg",
+      "beachUrl": "#!18-IpanemaBeach",
+      "beachLocation": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14691.999170525458!2d-43.21487918747686!3d-22.98703510953446!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9bd50124462bc9%3A0x297084a82551b8e4!2sIpanema%20Beach!5e0!3m2!1sen!2s!4v1660051940463!5m2!1sen!2s",
+      "beachPdf": "./pdf/18_Ipanema_Beach.pdf",
+      "beachAds": {
+        "src": "https://www.latamairlines.com/",
+        "thumb": "./images/flights/18_LATAMBrazil.png",
+        "desc": "LATAM Brazil"
+      },
+      "beachImgFull": [
+        { "src": "./images/18_Ipanema_Beach_01.jpg", "desc": "Image_01" },
+        { "src": "./images/18_Ipanema_Beach_02.jpg", "desc": "Image_02" },
+        { "src": "./images/18_Ipanema_Beach_03.jpg", "desc": "Image_03" },
+        { "src": "./images/18_Ipanema_Beach_04.jpg", "desc": "Image_04" },
+        { "src": "./images/18_Ipanema_Beach_05.jpg", "desc": "Image_05" },
+        { "src": "./images/18_Ipanema_Beach_06.jpg", "desc": "Image_06" },
+        { "src": "./images/18_Ipanema_Beach_07.jpg", "desc": "Image_07" }
+      ],
+      "beachWhen": "Mar"
+    },
+    {
+      "beachId": 19,
+      "beachCodeName": "19-BottomBay",
+      "beachName": "Bottom Bay",
+      "beachCountry": "Barbados",
+      "beachRegion": "North America",
+      "beachRating": 4.9,
+      "beachReviewTotal": 207,
+      "beachPrice": 4.7,
+      "beachContent": "Tucked away on the south coast, past the Crane Beach and Sam Lord's Castle is Bottom Bay, a wide expansive beach with smooth rolling waves riding onto the shore..... ",
+      "beachFullContent": "Tucked away on the south coast, past the Crane Beach and Sam Lord's Castle is Bottom Bay, a wide expansive beach with smooth rolling waves riding onto the shore.\n\nThe beach is semi enclosed by high coral cliffs, providing a panoramic view of the south shore. The scene is completed by the presence of tall palm trees that add to the peaceful and relaxing atmosphere of the bay.\n\nA favourite picnic spot, Bottom Bay is also becoming a popular place to live with a number of homes are being built on top of the cliffs overlooking the beach and ocean. People who live there report spotting turtles and whales in the waters below.\n\nBathing here is not recommended, as the waves are very strong, and great care should be shown by those who choose to do so.\n\nTo see this beautiful location and others, take an island tour.",
+      "beachThumb": "./images/19_Bottom_Bay_05.jpg",
+      "beachImgHeader": "./images/background/19_Bottom_Bay_01.jpg",
+      "beachUrl": "#!19-BottomBay",
+      "beachLocation": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3885.4144778778923!2d-59.42713263634056!3d13.136235440748024!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8c438c560e661f1d%3A0x838a9e431eb33605!2sBottom%20Bay!5e0!3m2!1svi!2s!4v1660067867769!5m2!1svi!2s",
+      "beachPdf": "./pdf/19_Bottom_Bay.pdf",
+      "beachAds": {
+        "src": "https://www.airantilles.com/",
+        "thumb": "./images/flights/19_airantilles.png",
+        "desc": "Air Antilles"
+      },
+      "beachImgFull": [
+        { "src": "./images/19_Bottom_Bay_01.jpg", "desc": "Image_01" },
+        { "src": "./images/19_Bottom_Bay_02.jpg", "desc": "Image_02" },
+        { "src": "./images/19_Bottom_Bay_03.jpg", "desc": "Image_03" },
+        { "src": "./images/19_Bottom_Bay_04.jpg", "desc": "Image_04" },
+        { "src": "./images/19_Bottom_Bay_05.jpg", "desc": "Image_05" },
+        { "src": "./images/19_Bottom_Bay_06.jpg", "desc": "Image_06" },
+        { "src": "./images/19_Bottom_Bay_07.jpg", "desc": "Image_07" },
+        { "src": "./images/19_Bottom_Bay_08.jpg", "desc": "Image_08" },
+        { "src": "./images/19_Bottom_Bay_09.jpg", "desc": "Image_09" }
+      ],
+      "beachWhen": "Sep"
+    },
+    {
+      "beachId": 20,
+      "beachCodeName": "20-HyamsBeach",
+      "beachName": "Hyams Beach",
+      "beachCountry": "Australia",
+      "beachRegion": "Australia",
+      "beachRating": 4.9,
+      "beachReviewTotal": 206,
+      "beachPrice": 4.7,
+      "beachContent": "Situated on the northern shores of Jervis Bay, Hyams beach is one of a number of stunning beaches.... ",
+      "beachFullContent": "Situated on the northern shores of Jervis Bay, Hyams beach is one of a number of stunning beaches. To put things in perspective, Jervis Bay is around 4 times the size of Sydney harbour and much of it is lined with unspoilt beach.\n\nHere you will find lush forests spilling onto white sand beaches which are gently lapped by the crystal clear azure waters of the Pacific Ocean. And when we say “white sand” we mean it - according to the Guinness Book of Records, Hyams Beach has the whitest sand in the world.\n\nDespite being only a little over 2 hours drive south of Sydney Hyams beach has an untouched, ‘natural bush' feel to it. Jervis Bay itself is a national park, as is the area to the south of the bay at Booderee and both offer some great bushwalking including the he ‘White Sands Walk'.\n\nWhilst many visitors will be more than content to relax on the beach in these beautiful surrounds there are plenty of opportunities to get a little more active in the sheltered waters of Jervis Bay. Diving and snorkelling are popular and this marine park provides no shortage of sealife to discover. This ranges from sea dragons and octopus right up to whales and dolphins which can be spotted off the Beecroft Peninsula.\n\nSailing, kitesurfing, kayaking and the now ubiquitous stand up paddleboarding are also popular in the bay.",
+      "beachThumb": "./images/20_Hyams_Beach_03.jpg",
+      "beachImgHeader": "./images/background/20_Hyams_Beach_01.jpg",
+      "beachUrl": "#!20-HyamsBeach",
+      "beachLocation": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d26111.635433463052!2d150.66937723610695!3d-35.107848791218316!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6b148eb5e92334cd%3A0x40609b49043d6b0!2sHyams%20Beach%20New%20South%20Wales%202540%2C%20%C3%9Ac!5e0!3m2!1svi!2s!4v1660092301977!5m2!1svi!2s",
+      "beachPdf": "./pdf/20_Hyams_Beach.pdf",
+      "beachAds": {
+        "src": "https://www.qantas.com/",
+        "thumb": "./images/flights/20_QantasAir.png",
+        "desc": "Qantas Air"
+      },
+      "beachImgFull": [
+        { "src": "./images/20_Hyams_Beach_01.jpg", "desc": "Image_01" },
+        { "src": "./images/20_Hyams_Beach_02.jpg", "desc": "Image_02" },
+        { "src": "./images/20_Hyams_Beach_03.jpg", "desc": "Image_03" },
+        { "src": "./images/20_Hyams_Beach_04.jpg", "desc": "Image_04" },
+        { "src": "./images/20_Hyams_Beach_05.jpg", "desc": "Image_05" },
+        { "src": "./images/20_Hyams_Beach_06.jpg", "desc": "Image_06" },
+        { "src": "./images/20_Hyams_Beach_07.jpg", "desc": "Image_07" },
+        { "src": "./images/20_Hyams_Beach_08.jpg", "desc": "Image_08" }
+      ],
+      "beachWhen": "Apr"
+    },
+    {
+      "beachId": 21,
+      "beachCodeName": "21-GraceBayBeach",
+      "beachName": "Grace Bay Beach",
+      "beachCountry": "England",
+      "beachRegion": "Europe",
+      "beachRating": 4.9,
+      "beachReviewTotal": 266,
+      "beachPrice": 4.8,
+      "beachContent": "Every Caribbean island is unique. Whether you've traveled to the Caribbean before, or are planning your first trip, every island offers something special.... ",
+      "beachFullContent": "Every Caribbean island is unique. Whether you've traveled to the Caribbean before, or are planning your first trip, every island offers something special. Each has its own culture, way of life, attractions, and of course beaches. Grace Bay Beach was voted the best beach in the world. Find out why, what it's known for, and how to plan your next trip.\n\nYou'll find Grace Bay Beach within the Turks & Caicos Islands. Unsurprisingly, these islands are among the more highly rated Caribbean vacation destinations, down to their natural beauty, picturesque setting, and opportunity for ultimate luxury. The island chain, a British Overseas Territory, is made up of 40 low lying coral islands, with the island of Providenciales (Provo) being the most populated. Provo is home to the famous Grace Bay region and Grace Bay Beach, which is one of the most jaw-droppingly beautiful beaches in the world.",
+      "beachThumb": "./images/21_Grace_Bay_01.jpg",
+      "beachImgHeader": "./images/background/21_Grace_Bay_01.jpg",
+      "beachUrl": "#!21-GraceBayBeach",
+      "beachLocation": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d16874.600168755813!2d-72.18722130744672!3d21.799344954298494!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x894b4f97e3e25cbb%3A0xcf05e228e2c20c30!2sGrace%20Bay%20Beach!5e0!3m2!1svi!2s!4v1660093700404!5m2!1svi!2s",
+      "beachPdf": "./pdf/21_Grace_Bay_Beach.pdf",
+      "beachAds": {
+        "src": "https://www.britishairways.com/",
+        "thumb": "./images/flights/21_Britishairways.png",
+        "desc": "British Airways"
+      },
+      "beachImgFull": [
+        { "src": "./images/21_Grace_Bay_01.jpg", "desc": "Image_01" },
+        { "src": "./images/21_Grace_Bay_02.jpg", "desc": "Image_02" },
+        { "src": "./images/21_Grace_Bay_03.jpg", "desc": "Image_03" },
+        { "src": "./images/21_Grace_Bay_04.jpg", "desc": "Image_04" },
+        { "src": "./images/21_Grace_Bay_05.jpg", "desc": "Image_05" },
+        { "src": "./images/21_Grace_Bay_06.jpg", "desc": "Image_06" },
+        { "src": "./images/21_Grace_Bay_07.jpg", "desc": "Image_07" },
+        { "src": "./images/21_Grace_Bay_08.jpg", "desc": "Image_08" }
+      ],
+      "beachWhen": "May"
+    },
+    {
+      "beachId": 22,
+      "beachCodeName": "22-NihiwatuBeach",
+      "beachName": "Nihiwatu Beach",
+      "beachCountry": "Indonesia",
+      "beachRegion": "Asia",
+      "beachRating": 4.7,
+      "beachReviewTotal": 126,
+      "beachPrice": 4.6,
+      "beachContent": "Due to the richness of beauty of Nihiwatu Beach, tourists can do various fun activities on site. For instance, it is surfing! Thanks to the big waves.... ",
+      "beachFullContent": "Due to the richness of beauty of Nihiwatu Beach, tourists can do various fun activities on site. For instance, it is surfing! Thanks to the big waves. Tourists only need a good surfing board and some skills in order to enjoy such kind of sports. Somehow, the waves are suitable for everyone regardless of the experience. That means beginners can also have a good time there, as long as they don't do it alone. When it comes to the facility, tourists can rent the surfing board so they don't have to bring any.\n\nThe next allure of Nihiwatu Beach is none other than the nuance. This one is considered peaceful and suitable for relaxation! Not only the sea scenery is amazing, but it features soothing breezy wind too. No wonder, many people take advantage of the site to eradicate stresses and spending a peaceful vacation either with friends or families. In fact, it is even suitable for those who come alone or those who are looking for an inspiration during holidays.\n\nAnother allure of the beach is the presence of romantic sunset in the afternoon. It is true tourists should come at the right time if they want to witness such phenomenon. Here is the tip. They can stay at the nearby resort and wait for the right moment to approach the beach (especially during dusk). This way, they won't miss the opportunity to watch the sunset!",
+      "beachThumb": "./images/22_Nihiwatu_Beach_04.jpg",
+      "beachImgHeader": "./images/background/22_Nihiwatu_Beach_01.jpg",
+      "beachUrl": "#!22-NihiwatuBeach",
+      "beachLocation": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15727.683081495556!2d119.35718075847586!3d-9.772771588113452!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2c4afcdc01f97a73%3A0x54c747e3fc22ac63!2sNihiwatu%20Beach!5e0!3m2!1svi!2s!4v1660094914603!5m2!1svi!2s",
+      "beachPdf": "./pdf/22_Nihiwatu_Beach.pdf",
+      "beachAds": {
+        "src": "https://www.garuda-indonesia.com/",
+        "thumb": "./images/flights/22_Garudaindonesia.png",
+        "desc": "Garuda Indonesia"
+      },
+      "beachImgFull": [
+        { "src": "./images/22_Nihiwatu_Beach_01.jpg", "desc": "Image_01" },
+        { "src": "./images/22_Nihiwatu_Beach_02.jpg", "desc": "Image_02" },
+        { "src": "./images/22_Nihiwatu_Beach_03.jpg", "desc": "Image_03" },
+        { "src": "./images/22_Nihiwatu_Beach_04.jpg", "desc": "Image_04" },
+        { "src": "./images/22_Nihiwatu_Beach_05.jpg", "desc": "Image_05" },
+        { "src": "./images/22_Nihiwatu_Beach_06.jpg", "desc": "Image_06" },
+        { "src": "./images/22_Nihiwatu_Beach_07.jpg", "desc": "Image_07" },
+        { "src": "./images/22_Nihiwatu_Beach_08.jpg", "desc": "Image_08" }
+      ],
+      "beachWhen": "May"
+    },
+    {
+      "beachId": 23,
+      "beachCodeName": "23-AnseSoleil",
+      "beachName": "Anse Soleil",
+      "beachCountry": "Seychelles",
+      "beachRegion": "Africa",
+      "beachRating": 4.6,
+      "beachReviewTotal": 126,
+      "beachPrice": 4.3,
+      "beachContent": "Anse Soleil is a beautiful, bright bay with gorgeous golden sand and turquoise-blue water... ",
+      "beachFullContent": "Anse Soleil is a beautiful, bright bay with gorgeous golden sand and turquoise-blue water. Thanks in part to its close proximity to some accommodations, Anse Soleil is relatively popular amongst tourists, and there are usually at least a few people here enjoying the sand and the scenery. This is by no means a bad thing, however, and there is always enough space on the beach for everyone to find their own little spot to enjoy. For those who aren't staying nearby, arrival at Anse Soleil is not quite as simple, but far from difficult thanks to the nearby bus stop (about 200m from the beach), as well as the limited parking spaces available next to the beach and the restaurant here. This means that people can come from further afield on Mahé to enjoy the beautiful Anse Soleil if they so wish, as well as an evening meal at the restaurant on the beach. Besides the restaurant, Anse Soleil is well-suited to swimming and snorkelling, as well as surfing at various points throughout the year. Swimmers should be careful, as the water can be quite deep here, especially at high tide, and there is a deep drop-off not far from the shore. However, providing they stay close to the beach itself, most swimmers will find they have no problems here.\n\nIn the surrounding area, there are a few accommodations and restaurants, and shops can be found about 500m from the beach. Anse Soleil is a truly stunning little beach; not the most exciting beach in the Seychelles, perhaps, but more than capable of holding its own against what else the country has to offer. In fact, the scenery here rivals any beach you could imagine, with beautiful white sand and crystal-clear water, making it well worth a visit during your Seychelles holiday.",
+      "beachThumb": "./images/23_Anse_Soleil_01.jpg",
+      "beachImgHeader": "./images/background/23_Anse_Soleil_01.jpg",
+      "beachUrl": "#!23-AnseSoleil",
+      "beachLocation": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3976.14486119696!2d55.463633913571!3d-4.744870646553907!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x22e1d51452a72ca9%3A0xfb3f8ae10e7434c8!2sAnse%20Soleil!5e0!3m2!1svi!2s!4v1660096066575!5m2!1svi!2s",
+      "beachPdf": "./pdf/23_Anse_Soleil.pdf",
+      "beachAds": {
+        "src": "https://www.airseychelles.com/",
+        "thumb": "./images/flights/23_airseychelles.png",
+        "desc": "Air Seychelles"
+      },
+      "beachImgFull": [
+        { "src": "./images/23_Anse_Soleil_01.jpg", "desc": "Image_01" },
+        { "src": "./images/23_Anse_Soleil_02.jpg", "desc": "Image_02" },
+        { "src": "./images/23_Anse_Soleil_03.jpg", "desc": "Image_03" },
+        { "src": "./images/23_Anse_Soleil_04.jpg", "desc": "Image_04" },
+        { "src": "./images/23_Anse_Soleil_05.jpg", "desc": "Image_05" },
+        { "src": "./images/23_Anse_Soleil_06.jpg", "desc": "Image_06" },
+        { "src": "./images/23_Anse_Soleil_07.jpg", "desc": "Image_07" },
+        { "src": "./images/23_Anse_Soleil_08.jpg", "desc": "Image_08" }
+      ],
+      "beachWhen": "Nov"
+    },
+    {
+      "beachId": 24,
+      "beachCodeName": "24-DianiBeach",
+      "beachName": "Diani Beach",
+      "beachCountry": "Kenya",
+      "beachRegion": "Africa",
+      "beachRating": 4.9,
+      "beachReviewTotal": 202,
+      "beachPrice": 4.7,
+      "beachContent": "Silky white sands, warm turquoise waters and palm-lined streets; Diani is the sliver of paradise marking the border where the African continent meets the vast Indian Ocean... ",
+      "beachFullContent": "Silky white sands, warm turquoise waters and palm-lined streets; Diani is the sliver of paradise marking the border where the African continent meets the vast Indian Ocean. A beautiful tropical beach retreat, it's often added at the end of a safari in Kenya for a few days' relaxation.\n\nDiani Beach has been awarded the best beach destination in Africa for 5 years running, and it's easy to see why.\n\nLocated 30km south of Mombasa, this south coast beach is surrounded by the warm Indian Ocean, with countless beach resorts to accommodate you during your stay.\n\nDiani Beach is everything that comes to mind when you think of a tropical paradise - rolling white sands perfect for sunbathing, crystal clear waters perfect for snorkelling, and an abundance of wildlife to discover.\n\nPerfect for everyone from families to couples, visitors choose to head to Diani for a few days at the end of a safari in Kenya, but it's great as a standalone getaway too.",
+      "beachThumb": "./images/24_Diani_Beach_01.jpg",
+      "beachImgHeader": "./images/background/24_Diani_Beach_01.jpg",
+      "beachUrl": "#!24-DianiBeach",
+      "beachLocation": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31829.660055673452!2d39.57725974128938!3d-4.276956501022977!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1840463f2a0b107d%3A0xafa0063ab0f439ad!2sDiani%20Beach!5e0!3m2!1svi!2s!4v1660097834975!5m2!1svi!2s",
+      "beachPdf": "./pdf/24_Diani_Beach.pdf",
+      "beachAds": {
+        "src": "https://www.kenya-airways.com/",
+        "thumb": "./images/flights/24_kenyaairways.png",
+        "desc": "Kenya Airways"
+      },
+      "beachImgFull": [
+        { "src": "./images/24_Diani_Beach_01.jpg", "desc": "Image_01" },
+        { "src": "./images/24_Diani_Beach_02.jpg", "desc": "Image_02" },
+        { "src": "./images/24_Diani_Beach_03.jpg", "desc": "Image_03" },
+        { "src": "./images/24_Diani_Beach_04.jpg", "desc": "Image_04" },
+        { "src": "./images/24_Diani_Beach_05.jpg", "desc": "Image_05" },
+        { "src": "./images/24_Diani_Beach_06.jpg", "desc": "Image_06" },
+        { "src": "./images/24_Diani_Beach_07.jpg", "desc": "Image_07" },
+        { "src": "./images/24_Diani_Beach_08.jpg", "desc": "Image_08" }
+      ],
+      "beachWhen": "Aug"
+    }
+  ],
+
+  "months": [
+    {
+      "id": "Jan",
+      "value": "January",
+      "visible": false,
+      "bgImgURL": "./images/background/bg_01.jpg"
+    },
+    {
+      "id": "Feb",
+      "value": "February",
+      "visible": false,
+      "bgImgURL": "./images/background/bg_02.jpg"
+    },
+    {
+      "id": "Mar",
+      "value": "March",
+      "visible": false,
+      "bgImgURL": "./images/background/bg_03.jpg"
+    },
+    {
+      "id": "Apr",
+      "value": "April",
+      "visible": false,
+      "bgImgURL": "./images/background/bg_04.jpg"
+    },
+    {
+      "id": "May",
+      "value": "May",
+      "visible": false,
+      "bgImgURL": "./images/background/bg_05.jpg"
+    },
+    {
+      "id": "Jun",
+      "value": "June",
+      "visible": false,
+      "bgImgURL": "./images/background/bg_06.jpg"
+    },
+    {
+      "id": "Jul",
+      "value": "July",
+      "visible": false,
+      "bgImgURL": "./images/background/bg_07.jpg"
+    },
+    {
+      "id": "Aug",
+      "value": "August",
+      "visible": false,
+      "bgImgURL": "./images/background/bg_08.jpg"
+    },
+    {
+      "id": "Sep",
+      "value": "September",
+      "visible": false,
+      "bgImgURL": "./images/background/bg_09.jpg"
+    },
+    {
+      "id": "Oct",
+      "value": "October",
+      "visible": false,
+      "bgImgURL": "./images/background/bg_10.jpg"
+    },
+    {
+      "id": "Nov",
+      "value": "November",
+      "visible": false,
+      "bgImgURL": "./images/background/bg_11.jpg"
+    },
+    {
+      "id": "Dec",
+      "value": "December",
+      "visible": false,
+      "bgImgURL": "./images/background/bg_12.jpg"
+    }
+  ],
+  "regions": [
+    { "id": "africa", "value": "Africa" },
+    { "id": "asia", "value": "Asia" },
+    { "id": "australia", "value": "Australia" },
+    { "id": "europe", "value": "Europe" },
+    { "id": "norAmerica", "value": "North America" },
+    { "id": "souAmerica", "value": "South America" }
+  ],
+  "ratings": [
+    { "id": "1", "value": 1 },
+    { "id": "2", "value": 2 },
+    { "id": "3", "value": 3 },
+    { "id": "4", "value": 4 },
+    { "id": "5", "value": 5 }
+  ],
+  "prices": [
+    { "id": "1", "value": 1, "name": "Extra economical" },
+    { "id": "2", "value": 2, "name": "Economical" },
+    { "id": "3", "value": 3, "name": "Affordable" },
+    { "id": "4", "value": 4, "name": "Quite expensive" },
+    { "id": "5", "value": 5, "name": "Expensive" }
+  ]
+}

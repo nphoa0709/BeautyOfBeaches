@@ -1,0 +1,497 @@
+#beachTemplate {
+  margin-top: 3.2em;
+  margin-bottom: 2em;
+}
+#beachTemplate-header {
+  color: white;
+  background-color: #464646;
+  text-transform: uppercase;
+  min-height: 40vh;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+#beachTemplate-header-box {
+  width: 100%;
+  min-height: 40vh;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  line-height: 5em;
+  backdrop-filter: blur(8px) brightness(80%);
+  -webkit-backdrop-filter: blur(8px) brightness(80%);
+}
+#beachTemplate-header-box > div:first-child {
+  margin-top: -0.2em;
+  font-size: 4em;
+  font-weight: 800;
+  letter-spacing: 2px;
+  text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.28);
+}
+#beachTemplate-header-box > div:last-child {
+  font-size: 1.6em;
+  font-weight: 350;
+  text-shadow: 3px 3px 6px rgba(0, 0, 0, 0.38);
+}
+#beachTemplate-body {
+  width: 90%;
+  margin: 0 auto !important;
+}
+#beachTemplate-body-box {
+  margin: 0 auto;
+}
+#beach-content {
+  white-space: pre-wrap;
+}
+#beach-content::first-letter {
+  font-size: 1.5em;
+  font-weight: bold;
+}
+section > h2 {
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: 700;
+  color: var(--blue);
+}
+#beachMap {
+  text-align: center;
+}
+.beach-rating {
+  text-align: center;
+  padding-bottom: 2em;
+}
+.beach-rating span:first-child {
+  font-size: 2.5em;
+}
+.beach-rating > star {
+  font-size: 1.1em;
+  padding: 0 2em;
+}
+.rateBeach-box {
+  padding-bottom: 0.8em;
+  text-align: center;
+}
+.rateBeach-box > button {
+  background-color: var(--blue);
+  border-color: var(--blue);
+  padding: 0.6em 0;
+}
+.rateBeach-box > button:focus,
+.rateBeach-box > button:active {
+  background-color: var(--darkBlue);
+  border-color: var(--darkBlue);
+}
+.rateBeach-box > button:hover {
+  background-color: var(--darkBlue);
+  border-color: var(--darkBlue);
+}
+.close {
+  font-size: 1.5rem;
+}
+
+.col-12 img {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  width: 100%;
+}
+
+#myScrollspy-box {
+  /* position: sticky; */
+  top: 34px;
+}
+
+#detail-mainContent {
+  position: relative;
+}
+
+#about,
+#location,
+#gallery,
+#downloads,
+#rateReview,
+#FAQ {
+  padding-top: 7.5rem;
+  margin-top: -3.5rem;
+}
+.beach-downloads-box {
+  margin-top: -0.4em;
+}
+.beach-downloads-icon {
+  font-size: 2em;
+  color: brown;
+}
+.beach-downloads-link {
+  text-decoration: none !important;
+}
+.detail-review,
+.user-review {
+  padding: 20px 15px;
+  margin: 15px 0px;
+  border: 1px solid rgb(232, 232, 232);
+  border-radius: 8px;
+  background-color: #f8f9fa;
+  border-collapse: separate;
+  border-spacing: 5px;
+}
+.user-review {
+  background-color: rgb(248, 251, 253);
+  border: 1px solid var(--lightBlue);
+  transition: all 0.4s ease;
+}
+.user-review.ng-hide {
+  opacity: 0;
+  transition: all 0.4s ease;
+}
+.detail-review-name,
+.detail-faq-ask-name,
+.detail-faq-ans-name {
+  font-weight: 700;
+}
+.detail-review-email {
+  font-weight: normal;
+  font-style: italic;
+  font-size: smaller;
+}
+.detail-review-rating {
+  font-weight: bold;
+}
+.detail-review-time,
+.detail-faq-ask-time,
+.detail-faq-ans-time {
+  font-style: italic;
+  font-size: smaller;
+  color: rgb(150, 150, 150);
+  text-align: right;
+}
+.detail-review-other {
+  padding-top: 0.8em;
+}
+.user-review > form > div:not(:last-child) {
+  padding-bottom: 0.5em;
+}
+.user-review-climate,
+.user-review-food,
+.user-review-facility {
+  padding-bottom: 1.8em !important;
+}
+.user-review-other {
+  padding-bottom: 0;
+  margin-bottom: -1.4rem;
+}
+.user-review > form > div > h6 > span {
+  color: #a9a9a9;
+  font-weight: normal;
+}
+.user-review-optional {
+  font-size: 20px;
+  font-weight: 600;
+  padding: 0;
+  margin: 1em 0 0.8em 0 !important;
+}
+.userRating {
+  color: transparent;
+  text-shadow: 0 0 0 #a9a9a9;
+  margin: 0;
+  padding: 0;
+}
+ul.userRating {
+  display: inline-block;
+}
+.userRating li {
+  list-style-type: none;
+  display: inline-block;
+  padding: 1px;
+  text-align: center;
+  font-weight: bold;
+  cursor: pointer;
+  font-size: 25px;
+}
+.userRating .filled {
+  text-shadow: 0 0 0 gold;
+}
+.clear {
+  margin-top: 20px;
+}
+.userRating-score {
+  font-size: 25px;
+}
+label[for^="customRadio"] {
+  padding-right: 10px;
+}
+.inputErr {
+  border: 1px solid tomato;
+  /* background-color: #fcf8f9; */
+}
+.alertErr-box {
+  min-height: 25px;
+}
+.alertErr {
+  color: tomato;
+  font-size: 0.8em;
+  font-style: italic;
+  padding-top: 5px;
+}
+.addReview-btn {
+  width: 100px;
+}
+.user-review-rating > div {
+  font-style: italic;
+  font-size: 0.8em;
+  color: #a9a9a9;
+  margin-bottom: 0.6em;
+}
+.user-review-btn > input[type="button"] {
+  border-color: var(--blue);
+  color: var(--blue);
+  margin-right: 0.5em;
+  padding: 0.3em 2em;
+}
+.user-review-btn > input[type="button"]:hover {
+  background-color: var(--blue);
+  color: white;
+}
+.review-content-box {
+  margin-top: 2em;
+}
+.review-content-box > div > div > label,
+.review-content-box > div > div > button {
+  padding: 0 2em;
+}
+/* filter review*/
+.review {
+  margin: 25px auto 25px;
+}
+
+#FAQ > hr {
+  padding-bottom: 0.8em;
+}
+.detail-faq-ask,
+.detail-faq-ans {
+  margin-top: 0em;
+}
+.detail-faq-ask-header,
+.detail-faq-ans-header {
+  display: inline-block;
+  color: white;
+  background-color: #3b3b3b;
+  min-width: 2.1em;
+  text-align: center;
+  font-weight: bold;
+  padding: 0.3em 0.7em;
+  margin: 0.45em 0.5em 0 -0.5em;
+  border-radius: 5px;
+}
+.detail-faq-ans-header {
+  background-color: var(--blue);
+}
+
+.detail-faq-ask-name,
+.detail-faq-ans-name {
+  padding: none;
+}
+.detail-faq-ask-time,
+.detail-faq-ans-time {
+  text-align: left;
+  font-weight: normal;
+  display: block;
+  margin-bottom: 0.7em;
+}
+
+/* gallery */
+#gallery {
+  margin: 0 auto;
+  width: 100%;
+  min-width: 250px;
+  margin-bottom: calc(11.5vw + 35.5em);
+}
+.slider-container {
+  position: relative;
+  width: 95%;
+  margin: 0 auto;
+  text-align: center;
+}
+.slider-container img {
+  object-fit: cover;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.3), 0 6px 20px 0 rgba(0, 0, 0, 0.29);
+}
+.gallery-arrow-left,
+.gallery-arrow-right {
+  position: absolute;
+  top: calc(23vw - 1.8em);
+  font-size: calc(3.8vw + 0.2em);
+  margin: 0 0.4em;
+  cursor: pointer;
+  color: rgba(255, 255, 255, 0.3);
+  filter: drop-shadow(1px 1px 4px rgba(0, 0, 0, 0.9));
+}
+.gallery-arrow-left:hover,
+.gallery-arrow-right:hover {
+  color: rgba(255, 255, 255, 0.5);
+}
+.gallery-arrow-left {
+  float: right;
+  left: 0;
+}
+.gallery-arrow-right {
+  right: 0;
+}
+.nav-gallery {
+  position: absolute;
+  left: 0;
+  top: calc(32vw + 4.5em);
+  display: block;
+  width: 100%;
+  text-align: center;
+  padding: 2em 0.5em;
+}
+.nav-gallery li {
+  cursor: pointer;
+  display: inline-block;
+  margin: 8px 8px;
+  vertical-align: middle;
+  border-radius: 4px;
+  border: 6px solid rgb(234, 237, 241);
+}
+.nav-gallery li.active {
+  border: 6px solid rgb(164, 181, 198);
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.nav-gallery li img {
+  width: 90px;
+  height: 60px;
+  object-fit: cover;
+}
+.slider {
+  border-radius: 5px;
+  margin: 0 auto;
+  padding: 0 2em;
+  position: relative;
+}
+.slide-box {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.slide-box.ng-hide-add {
+  opacity: 1;
+  transition: 0.6s linear all;
+}
+.slide-box.ng-hide-add.ng-hide-add-active {
+  opacity: 0;
+}
+.slide-box.ng-hide-remove {
+  display: block !important;
+  opacity: 0;
+  transition: 0.6s linear all;
+}
+.slide-box,
+.slide-box.ng-hide-remove.ng-hide-remove-active {
+  opacity: 1;
+}
+.slider .slide-box {
+  width: 100%;
+}
+
+.beachTemplate-ads {
+  position: relative;
+  margin: 3.5em 0em 0em 2em;
+  text-align: center;
+}
+.beachTemplate-ads > h6 {
+  text-align: left;
+}
+.ads-body {
+  display: inline-block;
+  color: rgb(96, 110, 123);
+  border: 1px solid rgb(214, 214, 214);
+  border-radius: 8px;
+  box-shadow: 0 2px 8px 0 rgba(0, 0, 0, 0.1), 0 2px 8px 0 rgba(0, 0, 0, 0.09);
+}
+.ads-imgContainer {
+  position: relative;
+  width: 100%;
+  max-width: 280px;
+  margin: 0 auto;
+  text-align: center;
+  overflow: hidden;
+}
+.ads-imgContainer img {
+  width: 100%;
+  object-fit: cover;
+  background-color: white;
+  border-radius: 8px 8px 0px 0px;
+  transition: all 0.4s ease;
+}
+.ads-linkContainer {
+  transition: all 0.4s ease;
+  opacity: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+.ads-imgContainer:hover img {
+  filter: brightness(75%);
+  transform: scale(1.2);
+  transition: all 0.4s ease;
+}
+.ads-imgContainer:hover .ads-linkContainer {
+  opacity: 1;
+}
+.ads-linkContainer-text > a {
+  text-decoration: none;
+  color: white;
+}
+.ads-linkContainer-text {
+  background-color: rgb(96, 110, 123, 0.95);
+  border-radius: 4px;
+  text-transform: uppercase;
+  color: white;
+  font-size: 0.9em;
+  font-weight: bold;
+  padding: 0.5em 2em;
+}
+.ads-flightsName {
+  text-transform: uppercase;
+  background-color: rgb(96, 110, 123);
+  color: white;
+  border-radius: 0px 0px 8px 8px;
+  padding: 1em 0.5em;
+  z-index: 9995;
+}
+
+.support-button button {
+  background-color: var(--blue) !important;
+  border-color: var(--blue) !important;
+}
+.support-button button:hover {
+  background-color: var(--darkBlue) !important;
+  border-color: var(--darkBlue) !important;
+}
+
+.review-mention {
+  margin-top: 2em;
+}
+.review-mention button {
+  margin-bottom: 0.5em;
+}
+.review-mention button:hover:not(:last-child) {
+  background-color: #17a2b8 !important;
+}
+.review-mention button:hover:last-child {
+  background-color: #28a745 !important;
+}
+.review-mention button:nth-last-child(2) {
+  margin-right: 2em;
+}
+.review-content-box select > option {
+  background-color: white;
+  color: #6c757d;
+}
+.review-content-box button:hover {
+  background-color: #6c757d;
+}

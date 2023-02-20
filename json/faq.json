@@ -1,0 +1,524 @@
+{
+  "faq": [
+    {
+      "qaId": "0101",
+      "qaBeachId": "01-KohKradan",
+      "qaAskName": "Henry White",
+      "qaAskTime": "2018-06-22UTC12:42:51.000Z",
+      "qaQuestion": "How many days is best to explore the whole island? I will be island hopping in early 2021 and have 30 days to explore the islands, Bangkok and Cambodia (hopefully). I have already booked my ferry tickets on Duckberries and am now gathering information to arrange the trip. Many Thanks.",
+      "qaAnsName": "Ulrich Bader",
+      "qaAnsTime": "2018-06-30UTC05:12:38.000Z",
+      "qaAnswer": "Probably 2 to 3 nights for me."
+    },
+    {
+      "qaId": "0102",
+      "qaBeachId": "01-KohKradan",
+      "qaAskName": "Martim Rodrigues Santos",
+      "qaAskTime": "2019-09-21UTC00:20:03.000Z",
+      "qaQuestion": "I am a solo backpacker and will be visiting Thailand next year. Is it better to book a travel service or is it safe to organize a trip to the island? My friend recommended duckferries to book my tickets but now I am considering whether to join a group or book a tour service.",
+      "qaAnsName": "Henry C. Owens",
+      "qaAnsTime": "2019-10-25UTC00:54:02.000Z",
+      "qaAnswer": "Hello, we planned through Go Vacation Thailand and were very satisfied. You always have a contact person if there are problems. I wish you a wonderful holiday."
+    },
+    {
+      "qaId": "0201",
+      "qaBeachId": "02-Whitehaven",
+      "qaAskName": "Aurora Pastor",
+      "qaAskTime": "2018-01-28UTC04:15:25.000Z",
+      "qaQuestion": "We will be staying on Hamilton Island next Feb, is there a ferry or boat trip we can get to Whitehaven Beach please?",
+      "qaAnsName": "James Miller",
+      "qaAnsTime": "2018-02-02UTC15:30:15.000Z",
+      "qaAnswer": "Of course there are, plenty of cruise options to get to Whitehaven beach."
+    },
+    {
+      "qaId": "0202",
+      "qaBeachId": "02-Whitehaven",
+      "qaAskName": "Pedro Lorenzo",
+      "qaAskTime": "2019-10-28UTC21:17:34.000Z",
+      "qaQuestion": "Wanting to do a half day tour to Whitehaven beach, is the morning or afternoon trip better?",
+      "qaAnsName": "Ivy Hill",
+      "qaAnsTime": "2019-10-30UTC15:20:46.000Z",
+      "qaAnswer": "Do it at the afternoon because it's so amazing in Whitehaven Beach is better to do it in the afternoon because you know how it feels great and their massage shops open!"
+    },
+    {
+      "qaId": "0301",
+      "qaBeachId": "03-Anakena",
+      "qaAskName": "Jorge Suarez",
+      "qaAskTime": "2018-01-30UTC12:31:22.000Z",
+      "qaQuestion": "Good afternoon. We plan to be on Easter Island from 04.02 to 07.02 (2 adults) Altiplanico Rapa Nui hotel. 04.02. free time after arrival after lunch. What is the best way to get to Anakena Beach - taxi or rent a car?",
+      "qaAnsName": "Juan Carlos Fuentes",
+      "qaAnsTime": "2018-02-01UTC04:28:56.000Z",
+      "qaAnswer": "Take a car, you will need it on the island more than once, without it there is nothing to do here. Standard price for Suzuki Jimny around 40000CLP per day."
+    },
+    {
+      "qaId": "0302",
+      "qaBeachId": "03-Anakena",
+      "qaAskName": "Mathies Hendrickx",
+      "qaAskTime": "2020-06-17UTC14:12:43.000Z",
+      "qaQuestion": "I would like to know if there is any means of public transportation that allows me to get to the island from Hanga Roa to spend the day... how much does it cost in dollars and how far is it from the populated area.",
+      "qaAnsName": "Felipe Esteves",
+      "qaAnsTime": "2020-06-30UTC09:26:13.000Z",
+      "qaAnswer": "Hello. There are mini buses from Hanga Roa that charge 7,000 lucas to Anakena. It is approximately 18 Km. Some rent a bicycle to get there."
+    },
+    {
+      "qaId": "0401",
+      "qaBeachId": "04-CampsBay",
+      "qaAskName": "Luka Weber",
+      "qaAskTime": "2019-01-22UTC06:20:56.000Z",
+      "qaQuestion": "Can anyone tell me how to get to Camp's Bay from the cruise terminal and how far away is it? We will be there on 6th and 7th February next year.",
+      "qaAnsName": "Gloria Adonis",
+      "qaAnsTime": "2018-01-31UTC17:23:46.000Z",
+      "qaAnswer": "From the cruise terminal, you will be right in the V&A area. Basically, once you get onto Main Rd heading Southwest, you follow it through Seapoint, onto Victoria Rd and that will bright you right into Camp's Bay."
+    },
+    {
+      "qaId": "0402",
+      "qaBeachId": "04-CampsBay",
+      "qaAskName": "Oliver Karjalainen",
+      "qaAskTime": "2021-08-11UTC05:11:45.000Z",
+      "qaQuestion": "Are there beach chairs available to rent at Camp's Bay?",
+      "qaAnsName": "Jenny Mokone",
+      "qaAnsTime": "2021-10-24UTC02:17:16.000Z",
+      "qaAnswer": "Yes there are many chair and umbrella vendors. They will approach you as soon as you walk onto the beach. Prices vary from 4-6 Euro for a sun lounger and 6-8 Euros for an umbrella for the day."
+    },
+    {
+      "qaId": "0501",
+      "qaBeachId": "05-CalaGoloritze",
+      "qaAskName": "인화 석",
+      "qaAskTime": "2019-02-15UTC09:05:30.000Z",
+      "qaQuestion": "Is it possible to get closer to Cala Goloritze by car?",
+      "qaAnsName": "Camilla Mazza",
+      "qaAnsTime": "2019-03-06UTC04:29:37.000Z",
+      "qaAnswer": "You cannot reach Goloritze by ship or rubber dinghy. You can only reach it swimming, letting your boat offshore. Otherwise, you go to goloritzè on foot after a 45 minutes of walk but before you must arrive by car at parking called 'Su Porteddu' on the top of Altopiano del Golgo."
+    },
+    {
+      "qaId": "0502",
+      "qaBeachId": "05-CalaGoloritze",
+      "qaAskName": "Sara Stępień",
+      "qaAskTime": "2020-11-16UTC14:05:05.000Z",
+      "qaQuestion": "Hi, there are those who do not recommend the walking route for families, I would like to understand if it is for the danger of the path or if for the long route, the path has an overhang on the side? Thanks :)",
+      "qaAnsName": "Danilo Martini",
+      "qaAnsTime": "2020-12-03UTC05:26:36.000Z",
+      "qaAnswer": "I did it on foot with my 14 and 11 year olds. they are used to walking in the mountains so for them it was just a 'walk'... in fact it is ... an hour downhill, an hour and a half uphill, comfortable, pleasant, interesting (we met some goats along the way back) ... sure, closed and comfortable shoes, but there is absolutely no danger!"
+    },
+    {
+      "qaId": "0601",
+      "qaBeachId": "06-MiamiSouth",
+      "qaAskName": "Brooks Felizio",
+      "qaAskTime": "2019-08-23UTC03:08:18.000Z",
+      "qaQuestion": "Wanting to do a half day tour to Miami South Beach, is the morning or afternoon trip better?",
+      "qaAnsName": "Lanae Emmy",
+      "qaAnsTime": "2019-08-29UTC01:04:15.000Z",
+      "qaAnswer": "Do it at the afternoon because it's so amazing in Miami Beach is better to do it in the afternoon because you know how it feels great and their massage shops open!"
+    },
+    {
+      "qaId": "0602",
+      "qaBeachId": "06-MiamiSouth",
+      "qaAskName": "Dania Moina",
+      "qaAskTime": "2020-05-03UTC05:05:57.000Z",
+      "qaQuestion": "Hello! Can someone tell me what is the fastest way to get there from Florida?",
+      "qaAnsName": "Arabel Lynn",
+      "qaAnsTime": "2020-05-22UTC12:04:51.000Z",
+      "qaAnswer": "If traveling to Hamilton Island which has a good airport and from there sailing, helicopter or seaplane. It is very close to go for the day from there."
+    },
+    {
+      "qaId": "0603",
+      "qaBeachId": "06-MiamiSouth",
+      "qaAskName": "Luci Haerr",
+      "qaAskTime": "2021-09-09UTC04:09:42.000Z",
+      "qaQuestion": "Are there any adult only, all inclusive resorts in this area? We are looking to go somewhere just like this, but we have ventured out to this area. Your input would be greatly appreciated. You may email me at jwe 100108 (at sign) yahoo com (No spaces but I had to write it like this so it would take the review).",
+      "qaAnsName": "Tatiania Lasley",
+      "qaAnsTime": "2021-10-18UTC12:10:07.000Z",
+      "qaAnswer": "The Beach Club at Miami South is adults only. There is no accomodation at Miami Beach."
+    },
+    {
+      "qaId": "0701",
+      "qaBeachId": "07-Gjipe",
+      "qaAskName": "Ronna Sammons",
+      "qaAskTime": "2019-03-22UTC12:03:55.000Z",
+      "qaQuestion": "What is the best way to get here, if you travel from Himarë for a day trip? Thank you!",
+      "qaAnsName": "Amara Burnside",
+      "qaAnsTime": "2019-03-29UTC11:04:37.000Z",
+      "qaAnswer": "A boat from Jale Beach."
+    },
+    {
+      "qaId": "0702",
+      "qaBeachId": "07-Gjipe",
+      "qaAskName": "Ronna Sammons",
+      "qaAskTime": "2020-05-12UTC04:05:03.000Z",
+      "qaQuestion": "Did I read that you got there by boat at a cost of 20 euros? Is it for only one person?",
+      "qaAnsName": "Selia Sothenna",
+      "qaAnsTime": "2020-05-30UTC09:10:04.000Z",
+      "qaAnswer": "No, it costs per boat once!"
+    },
+    {
+      "qaId": "0703",
+      "qaBeachId": "07-Gjipe",
+      "qaAskName": "Lila O'Neill",
+      "qaAskTime": "2021-10-24UTC03:10:56.000Z",
+      "qaQuestion": "Hi, Are the sun loungers there all year or seasonal? Also is there a restaurant? Again is it seasonal or all year round as we plan to visit mid September, thank you so much.",
+      "qaAnsName": "Abbie Estella",
+      "qaAnsTime": "2019-10-30UTC08:10:36.000Z",
+      "qaAnswer": "Everything is seasonal, a small beach bar only for any drink or beer."
+    },
+    {
+      "qaId": "0704",
+      "qaBeachId": "07-Gjipe",
+      "qaAskName": "Kaja Stover",
+      "qaAskTime": "2022-02-07UTC12:12:17.000Z",
+      "qaQuestion": "Is there any restaurants or places to eat? Or is it better to bring a packed lunch?",
+      "qaAnsName": "Carly Tiffa",
+      "qaAnsTime": "2022-02-16UTC02:10:19.000Z",
+      "qaAnswer": "Hi bros, there are 3 bars and restaurants. You can eat without bringing anything!"
+    },
+    {
+      "qaId": "0801",
+      "qaBeachId": "08-SanJosefBay",
+      "qaAskName": "Jenilee Fiester",
+      "qaAskTime": "2019-12-22UTC11:12:33.000Z",
+      "qaQuestion": "What was the weather like?",
+      "qaAnsName": "Teddie Libna",
+      "qaAnsTime": "2019-12-30UTC06:07:10.000Z",
+      "qaAnswer": "Well that will depend upon the time of year and conditions. I suggest you have something that cuts out the wind but you can experience very hot still conditions or wind and rain. It was beautiful walking temperature of 16C when we walked it. Many were wearing shorts!"
+    },
+    {
+      "qaId": "0802",
+      "qaBeachId": "08-SanJosefBay",
+      "qaAskName": "Kamilah Orlene",
+      "qaAskTime": "2020-05-31UTC11:05:15.000Z",
+      "qaQuestion": "Hello! Coming to Ucluelet in about a week and can't wait to hike this 8 km stretch. We are staying at the Black Rock - what's the best place to start and end? I'm a bit confused as the lighthouse section seems split off from the rest..... would we need to drive between the lighthouse section and the rest of the trail?",
+      "qaAnsName": "Eadie Carbo",
+      "qaAnsTime": "2020-06-20UTC06:07:41.000Z",
+      "qaAnswer": "I would go and park by the lighthouse, and do the loop there. It takes about 45 minutes, but you could easily take 90 minutes! Lots of wonderful benches to sit on, and enjoy the view. And take binoculars too. You may see some whales off in the distance, as they head back to Alaska. Also, from the Black Rock resort, you can walk on another section of the trail going north. It actually goes for quite a ways that direction, all the way to the Artist's loop, and the big cedar tree loop. But then it's back the way you came from the resort. Make sure you pick up the brochure of the trail once you get there."
+    },
+    {
+      "qaId": "0803",
+      "qaBeachId": "08-SanJosefBay",
+      "qaAskName": "Jinny Sisile",
+      "qaAskTime": "2021-08-16UTC02:05:09.000Z",
+      "qaQuestion": "When is the best time to visit.? Is this close or far from other attractions?",
+      "qaAnsName": "Evaleen Lilybelle",
+      "qaAnsTime": "2019-08-20UTC11:05:37.000Z",
+      "qaAnswer": "More on the Seaplane, this is an added adventure to your trip, but the flight has a 25lb luggage restriction, you will need to plan accordingly."
+    },
+    {
+      "qaId": "0901",
+      "qaBeachId": "09-WhiteBeach",
+      "qaAskName": "Graham White",
+      "qaAskTime": "2019-07-22UTC12:42:51.000Z",
+      "qaQuestion": "if we want to travel in oct how is the climate and party will be on.",
+      "qaAnsName": "Dudz Bader",
+      "qaAnsTime": "2019-10-30UTC05:12:38.000Z",
+      "qaAnswer": "the weather should be okay, so that's why thats the start of international tourist season. but, with climate change, expect some rain showers too there are no more parties on the beachfront itself unlike before. but there are plenty of places you can party that are not on the beach: dance clubs, videoke, live singers, performances, etc have fun!"
+    },
+    {
+      "qaId": "0902",
+      "qaBeachId": "09-WhiteBeach",
+      "qaAskName": "Martim Santos",
+      "qaAskTime": "2019-03-21UTC00:20:03.000Z",
+      "qaQuestion": "Hi I just want to know if my friend don't like hotel accommodation. Is there an apartment or house that I can accommodate?",
+      "qaAnsName": "Henry C. Owens",
+      "qaAnsTime": "2019-08-25UTC00:54:02.000Z",
+      "qaAnswer": "Yes you can find it! Before travel to Boracay we look in Airbnb and there is a building at Savoy zone which has many apartments available."
+    },
+    {
+      "qaId": "1001",
+      "qaBeachId": "10-Copacabana",
+      "qaAskName": "Aurora Pastor",
+      "qaAskTime": "2019-01-28UTC04:15:25.000Z",
+      "qaQuestion": "Hi, how much does it cost to rent an umbrella and chairs in Copacabana?",
+      "qaAnsName": "Alice Miller",
+      "qaAnsTime": "2019-02-21UTC15:30:15.000Z",
+      "qaAnswer": "We paid BR$15 reals For the rental. That price got us two chairs and an umbrella. Please pay attention to your location and your gear. The beaches are the most accessible place for theft. We made sure someone was always sitting on the chair with an eye on the gear. Minimize what you bring with you as well. Enjoy!"
+    },
+    {
+      "qaId": "1002",
+      "qaBeachId": "10-Copacabana",
+      "qaAskName": "Pedro Lorenzo",
+      "qaAskTime": "2019-10-28UTC21:17:34.000Z",
+      "qaQuestion": "Vou ficar hospedado em Copacabana entre o posto 2 e 3, queria saber se é um bom local? Se não, qual seria as melhor opção.",
+      "qaAnsName": "Ivy Hill",
+      "qaAnsTime": "2019-10-30UTC15:20:46.000Z",
+      "qaAnswer": "Olá um é prazer ajudar! Eu achei legal Copacabana, porém se eu fosse me hospedar novamente no Rio me hospedaria no Leblon ou Ipanema, é bem pertinho de Copacabana da para ir a pé tranquilo, Copacabana é muito visado e acaba sendo mais agitado e caro."
+    },
+    {
+      "qaId": "1101",
+      "qaBeachId": "11-Waikiki",
+      "qaAskName": "Annette Suarez",
+      "qaAskTime": "2018-01-30UTC12:31:22.000Z",
+      "qaQuestion": "We want to come to Waikiki in November and maybe stay at the Sheraton, but I'm curious where the sun sets that time of year? Should we face Diamond Head or is it still better to face out direct oceanfront?",
+      "qaAnsName": "Melissa A. Fuentes",
+      "qaAnsTime": "2018-02-01UTC04:28:56.000Z",
+      "qaAnswer": "No matter where your is located in the Sheraton, you can go to Rumfire ( open air bar and food attached to the Sheraton) on the beach. Grab a drink and watch to your right for the green flash as the sunsets. Have a wonderful time!"
+    },
+    {
+      "qaId": "1102",
+      "qaBeachId": "11-Waikiki",
+      "qaAskName": "Tom Bailey",
+      "qaAskTime": "2020-06-17UTC14:12:43.000Z",
+      "qaQuestion": "Do you have to pay an extra resort fee staying in the Waikiki beach area?",
+      "qaAnsName": "Felipe Esteves",
+      "qaAnsTime": "2020-06-30UTC09:26:13.000Z",
+      "qaAnswer": "It depends on the resort and travel agency. For example, resort fees are usually covered when using Costco travel, but I've stayed in places that didn't have fees so I always read the contracts."
+    },
+    {
+      "qaId": "1201",
+      "qaBeachId": "12-BelleMareBeach",
+      "qaAskName": "Luka Weber",
+      "qaAskTime": "2019-01-22UTC06:20:56.000Z",
+      "qaQuestion": "Can anyone recommend a friendly locals bar?",
+      "qaAnsName": "Gloria Martin",
+      "qaAnsTime": "2019-01-31UTC17:23:46.000Z",
+      "qaAnswer": "hi...again did not visit any but there were a few in the main part of the 'town' with a few shops. no idea what they were like and a good walk from most hotels."
+    },
+    {
+      "qaId": "1202",
+      "qaBeachId": "12-BelleMareBeach",
+      "qaAskName": "Oliver Karjalainen",
+      "qaAskTime": "2021-08-11UTC05:11:45.000Z",
+      "qaQuestion": "Are there beach chairs available to rent at Belle Mare Beach?",
+      "qaAnsName": "Jenny Mokone",
+      "qaAnsTime": "2021-10-24UTC02:17:16.000Z",
+      "qaAnswer": "Yes there are many chair and umbrella vendors. They will approach you as soon as you walk onto the beach. Prices vary from 4-6 Euro for a sun lounger and 6-8 Euros for an umbrella for the day."
+    },
+    {
+      "qaId": "1301",
+      "qaBeachId": "13-OludenizBeach",
+      "qaAskName": "Matsuda Takeko",
+      "qaAskTime": "2019-02-15UTC09:05:30.000Z",
+      "qaQuestion": "Thinking of going to Oludeniz on 20th April next year and hoping to stay near the beach. Some appartments aren't open until May. Will the resort be too quiet? Are the restaurants and shops open in April?",
+      "qaAnsName": "Karin Mazza",
+      "qaAnsTime": "2019-03-06UTC04:29:37.000Z",
+      "qaAnswer": "I went 7th may it was quiet with building work needed jacket in evening second week warmer busier no jacket restaurants still opening up in second week. hisanori busier still loved it but next year won’t arrive till end may. Been in October and that was great."
+    },
+    {
+      "qaId": "1302",
+      "qaBeachId": "13-OludenizBeach",
+      "qaAskName": "Sara Alice",
+      "qaAskTime": "2020-11-16UTC14:05:05.000Z",
+      "qaQuestion": "Does anyone know of any water sports in Ölüdeniz? Really fancy doing parasailing",
+      "qaAnsName": "Danilo Martini",
+      "qaAnsTime": "2020-12-03UTC05:26:36.000Z",
+      "qaAnswer": "Honestly, I didn't see parasailung or jetski rides in my visit, but yes paragliding flights took place from early morning till sunset except during rainfalls."
+    },
+    {
+      "qaId": "1401",
+      "qaBeachId": "14-SurfersParadiseBeach",
+      "qaAskName": "Oda Takemitsu",
+      "qaAskTime": "2019-02-15UTC09:05:30.000Z",
+      "qaQuestion": "Hello, thinking of coming in august. Will it be warm enough to enjoy the beach. Is it worth it to come in August ? thank you",
+      "qaAnsName": "Camilla Mazza",
+      "qaAnsTime": "2019-03-06UTC04:29:37.000Z",
+      "qaAnswer": "You can definitely visit Surfers Paradise beach all year round and people do swim and surf year-round. It depends on how warm you like the water to be. In August, the water temperatures are at their coldest as we are in winter and will range around 19-22 degrees celsius. It's lovely to walk on the beach as we have many beautiful sunny days. We hope that helps!"
+    },
+    {
+      "qaId": "1402",
+      "qaBeachId": "14-SurfersParadiseBeach",
+      "qaAskName": "Sara Susan",
+      "qaAskTime": "2020-11-16UTC14:05:05.000Z",
+      "qaQuestion": "Can I go for a bike ride on that beach? I want to go from one end of that beach to other end of that beach on bike!",
+      "qaAnsName": "Danilo Martini",
+      "qaAnsTime": "2020-12-03UTC05:26:36.000Z",
+      "qaAnswer": "The Gold Coast Oceanway is a 36km stretch of pathways from The Spit to Coolongatta and which will go along the Esplanade at Surfers Paradise. The views are amazing and will be beautiful by bicycle - enjoy! The team at Surfers Paradise Alliance"
+    },
+    {
+      "qaId": "1501",
+      "qaBeachId": "15-NhaTrangBeach",
+      "qaAskName": "Fuji Akeko",
+      "qaAskTime": "2019-02-15UTC09:05:30.000Z",
+      "qaQuestion": "Is it possible to get closer to Cala Goloritze by car?",
+      "qaAnsName": "Awa Mazza",
+      "qaAnsTime": "2019-03-06UTC04:29:37.000Z",
+      "qaAnswer": "You cannot reach Goloritze by ship or rubber dinghy. You can only reach it swimming, letting your boat offshore. Otherwise, you go to goloritzè on foot after a 45 minutes of walk but before you must arrive by car at parking called 'Su Porteddu' on the top of Altopiano del Golgo."
+    },
+    {
+      "qaId": "1502",
+      "qaBeachId": "15-NhaTrangBeach",
+      "qaAskName": "Alessia Sorrentino",
+      "qaAskTime": "2020-11-16UTC14:05:05.000Z",
+      "qaQuestion": "Can I go sky diving here?",
+      "qaAnsName": "Danilo Mike",
+      "qaAnsTime": "2020-12-03UTC05:26:36.000Z",
+      "qaAnswer": "Plenty of scuba diving but I suggest you google sky diving Aimed at tourists so I’m sure there will be an opportunity"
+    },
+    {
+      "qaId": "1601",
+      "qaBeachId": "16-PinkBeach",
+      "qaAskName": "Heri S Akeko",
+      "qaAskTime": "2019-02-15UTC09:05:30.000Z",
+      "qaQuestion": "What is the best time to go there to avoid crowds?",
+      "qaAnsName": "Camilla Richard",
+      "qaAnsTime": "2019-03-06UTC04:29:37.000Z",
+      "qaAnswer": "Never go on february. Most of the ship gone. Resort close, because of the big wave season. Few of the local told me, may or april is the best months."
+    },
+    {
+      "qaId": "1602",
+      "qaBeachId": "16-PinkBeach",
+      "qaAskName": "Kim Alice",
+      "qaAskTime": "2020-11-16UTC14:05:05.000Z",
+      "qaQuestion": "hi, how did you book your tour please? would you recomend them and how much did it cost?",
+      "qaAnsName": "Danilo Martha",
+      "qaAnsTime": "2020-12-03UTC05:26:36.000Z",
+      "qaAnswer": "Hi, we are local tour operator based in Labuan Bajo which concern to organize komodo tour. Kindly googling us on internet for more information and details. Thanks"
+    },
+    {
+      "qaId": "1701",
+      "qaBeachId": "17-NavagioBeach",
+      "qaAskName": "Iila",
+      "qaAskTime": "2021-06-22UTC12:22:51.000Z",
+      "qaQuestion": "So it looks like there's no cheap ways to go for backpackers? I guess it can only be reached by comfortable holiday makers.",
+      "qaAnsName": "AlexBar79",
+      "qaAnsTime": "2021-06-25UTC06:18:38.000Z",
+      "qaAnswer": "Hello There is no public transport ! Walking very far, this is the other side of the island. Possible only by taxi or rental transport ..."
+    },
+    {
+      "qaId": "1702",
+      "qaBeachId": "17-NavagioBeach",
+      "qaAskName": "Jean T",
+      "qaAskTime": "2021-08-21UTC20:25:03.000Z",
+      "qaQuestion": "With a boat tour, are you in a boat with other people or is it private? also to sail around Navagio would i have to hire the boat myself and sail it back to Laganas?",
+      "qaAnsName": "AlexBar79",
+      "qaAnsTime": "2021-08-25UTC21:14:02.000Z",
+      "qaAnswer": "Hello Not. The boat was taken individually ! We can recommend an excellent company."
+    },
+    {
+      "qaId": "1801",
+      "qaBeachId": "18-IpanemaBeach",
+      "qaAskName": "Ezequiel Nicolas Arnes",
+      "qaAskTime": "2021-06-28UTC09:11:25.000Z",
+      "qaQuestion": "hello people! Is it bad to go in August? to be able to enjoy the beach, and especially the sea and the water. thank you",
+      "qaAnsName": "DoloresPPP",
+      "qaAnsTime": "2021-06-30UTC17:30:15.000Z",
+      "qaAnswer": "Hi, I was only once in January, so I can't help you. Pay attention if it's not the rainy season because if it is, you can get a lot of rain and you won't be able to get to the beach."
+    },
+    {
+      "qaId": "1802",
+      "qaBeachId": "18-IpanemaBeach",
+      "qaAskName": "Laila Frazão",
+      "qaAskTime": "2021-09-28UTC21:37:34.000Z",
+      "qaQuestion": "Hello, I would like to know the value of an umbrella in Copacabana or Ipamema. thank you",
+      "qaAnsName": "NancyBuenosAires",
+      "qaAnsTime": "2021-09-30UTC18:26:46.000Z",
+      "qaAnswer": "Hello, good day!!!! There they offer you chairs and umbrellas as soon as you enter and approach one of the beaches. Normally the value is about $5 reales per chair and $10 per umbrella. Gay places that si le consumís a ellos te las pueden llegar a dar sin charge. Hope to serve you."
+    },
+    {
+      "qaId": "1901",
+      "qaBeachId": "19-BottomBay",
+      "qaAskName": "lightsout",
+      "qaAskTime": "2022-01-30UTC15:39:22.000Z",
+      "qaQuestion": "I want to know how to get there. The waves are dangerous for little kids or its quiet? Thanks in advance",
+      "qaAnsName": "Heinz B",
+      "qaAnsTime": "2022-02-01UTC06:48:56.000Z",
+      "qaAnswer": "Hi! The surf is dangerous for adults but absolutely unsuitable for small children.You can't go far into the water. Despite everything, the beach is beautiful. To get to the beach, I downloaded offline maps (MAPS.ME) at home onto my cell phone and used them to navigate to the beach and other places in Barbados. However, you should already know roughly where each beach is located so that you can click it on the map."
+    },
+    {
+      "qaId": "1902",
+      "qaBeachId": "19-BottomBay",
+      "qaAskName": "Jennifer W",
+      "qaAskTime": "2022-02-27UTC17:19:03.000Z",
+      "qaQuestion": "Is the beach marked or are there directions to it if you rent a car?",
+      "qaAnsName": "Donna T",
+      "qaAnsTime": "2022-02-30UTC06:56:13.000Z",
+      "qaAnswer": "The road is kind of off-road and really rough yet you drive literally through residential areas until you make it to a small parking 'lot' on the rocks/dirt (can't miss it). I don't recall the signs, we used the google maps and arrived with out a problem - just slow down as those roads in a pretty bad shape IT'S WORTH THE EXTRA EFFORT, trust me!"
+    },
+    {
+      "qaId": "2001",
+      "qaBeachId": "20-HyamsBeach",
+      "qaAskName": "Danielkwchu",
+      "qaAskTime": "2021-04-22UTC16:27:46.000Z",
+      "qaQuestion": "How can our group walkabout there? begin and ended and how long walking.",
+      "qaAnsName": "VisitShoalhaven",
+      "qaAnsTime": "2018-01-31UTC17:23:46.000Z",
+      "qaAnswer": "Starting at Blenheim or Greenfield Beach picnic area, this short walk passes white sandy beaches and coastal forest by the shores of Jervis Bay. Stop for a swim, spot birds and dolphins, or extend your walk to Hyams Beach. It is approx. 2.5klm one way."
+    },
+    {
+      "qaId": "2002",
+      "qaBeachId": "20-HyamsBeach",
+      "qaAskName": "Nick D",
+      "qaAskTime": "2021-05-14UTC09:41:45.000Z",
+      "qaQuestion": "Hi there! I'd like to know if there are any toilets, showers and barbeque/picnic areas near Hyams Beach. Thanks.",
+      "qaAnsName": "Bev M",
+      "qaAnsTime": "2021-05-18UTC06:47:56.000Z",
+      "qaAnswer": "Hi Yes there are toilets and outside beach shower at Hyams Beach. Unfortunately I can't remember if I saw BBQ's there but Greenfield beach near by has a proper bbq picnic table area. Hope this helps."
+    },
+    {
+      "qaId": "2101",
+      "qaBeachId": "21-GraceBayBeach",
+      "qaAskName": "bonedock",
+      "qaAskTime": "2021-02-15UTC07:25:20.000Z",
+      "qaQuestion": "How far is it from cruise terminal?",
+      "qaAnsName": "Steve W",
+      "qaAnsTime": "2021-02-23UTC09:22:17.000Z",
+      "qaAnswer": "Grace Bay is on Provedenciales. The Cruise terminal is on Grand Turk. Two separate islands."
+    },
+    {
+      "qaId": "2102",
+      "qaBeachId": "21-GraceBayBeach",
+      "qaAskName": "Maha M",
+      "qaAskTime": "2021-11-16UTC14:05:05.000Z",
+      "qaQuestion": "What is the best airline to get to this beautiful beach from DC ? Where is a reasonable priced resorts ? Never been to these islands but traveled to many others Caribbean islands",
+      "qaAnsName": "Brian O",
+      "qaAnsTime": "2021-12-03UTC09:26:36.000Z",
+      "qaAnswer": "Southwest flies directly to Provo now with a likely stop in Fort Lauderdale. Ports of Call Resort was the best for the price- it was $330/night compared to most being double that."
+    },
+    {
+      "qaId": "2201",
+      "qaBeachId": "22-NihiwatuBeach",
+      "qaAskName": "Sarmishta K",
+      "qaAskTime": "2021-09-26UTC16:25:45.000Z",
+      "qaQuestion": "Hi am sarmishta planing a trip for nihiwatu beach in sumba island. Am unlable to find price and contact of the nihiwatu hotel. What is the price?? Can you please help me....?",
+      "qaAnsName": "scoshi",
+      "qaAnsTime": "2021-10-01UTC10:06:56.000Z",
+      "qaAnswer": "Hi, I don't know if you are still looking for rates but you can find it on their website."
+    },
+    {
+      "qaId": "2202",
+      "qaBeachId": "22-NihiwatuBeach",
+      "qaAskName": "ACL1990",
+      "qaAskTime": "2021-11-06UTC14:05:05.000Z",
+      "qaQuestion": "Is the sea suitable for bathing/swimming for non surfers, or Is it to dangerous?",
+      "qaAnsName": "MechanicalJoy",
+      "qaAnsTime": "2021-11-09UTC09:26:36.000Z",
+      "qaAnswer": "Nihiwatu beach with its long stretch of white sand, few inhabitants, clear and peaceful sea water is a place that holds many tourists' hearts."
+    },
+    {
+      "qaId": "2301",
+      "qaBeachId": "23-AnseSoleil",
+      "qaAskName": "Mike M",
+      "qaAskTime": "2019-11-27UTC22:45:15.000Z",
+      "qaQuestion": "Bonjour , Je part en vacances Mardi pour 10 jours au Seychelles dans cette Hôtel , ma question concerne la Météo j’ai un peut peur quel Météo fait-il en Octobre ?",
+      "qaAnsName": "danielgautheur",
+      "qaAnsTime": "2021-11-29UTC17:16:22.000Z",
+      "qaAnswer": "Bonjour, concernant la météo au mois d'Octobre j'ai aucune idée vu que je suis parti aux Seychelles entre nöel et le jour de l'an mais ce que je peux vous dire c'est que ça change très souvent mais ne vous inquiétez pas vous allez vous régaler."
+    },
+    {
+      "qaId": "2302",
+      "qaBeachId": "23-AnseSoleil",
+      "qaAskName": "Girelle",
+      "qaAskTime": "2019-10-26UTC17:25:23.000Z",
+      "qaQuestion": "Bonjour, Je souhaiterais savoir quelle est la gene occasionnée par les travaux et jusque qaund ceux ci sont prévus. Cordialement.",
+      "qaAnsName": "françois C",
+      "qaAnsTime": "2019-10-28UTC09:26:36.000Z",
+      "qaAnswer": "Bonsoir, je n'ai rien publié sur les travaux pour cet hôtel.Je suis désolé de ne pouvoir vous aider. Cordialement. F. COUETTE."
+    },
+    {
+      "qaId": "2401",
+      "qaBeachId": "24-DianiBeach",
+      "qaAskName": "Rafa C",
+      "qaAskTime": "2020-04-16UTC13:17:43.000Z",
+      "qaQuestion": "Hola, voy a Mombasa a final de Febrero 5 días. Las playas de Diani parecen mas bonitas pero me dicen que en Nyali hay mas cosas que hacer y mas seguro. Algun consejo y hotel?",
+      "qaAnsName": "Mazza L",
+      "qaAnsTime": "2020-04-20UTC19:35:46.000Z",
+      "qaAnswer": "sorry for the late reply. I didn't see your question. I don't know Nyali, but i liked diani beach very much. we stayed in baobab beach house (very calm and personal) but the rooms only had fan. Thus we chenged to diani sea lodge (which is very nice, too, but very crowded with german turists)."
+    },
+    {
+      "qaId": "2402",
+      "qaBeachId": "24-DianiBeach",
+      "qaAskName": "Edna M",
+      "qaAskTime": "2020-10-09UTC15:39:38.000Z",
+      "qaQuestion": "I am currently in Mombasa and want to go spend a day in diani. What times does the ferry run ? How much does it cost ? Anyone have recommendations for her skiing, camel riding, snorkeling ?",
+      "qaAnsName": "Stephan",
+      "qaAnsTime": "2020-10-10UTC06:45:32.000Z",
+      "qaAnswer": "The ferry runs 24/7 . If you're on foot it's free. Best thing to do is to make a deal with a taxi. Then you can negotiate a suitable price and arrange pickup both ways. Normal price one way is approx 4-5 thousand shillings. But Diani beach is well worth the money."
+    }
+  ]
+}

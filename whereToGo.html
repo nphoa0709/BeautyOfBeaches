@@ -1,0 +1,427 @@
+  <!-- Statics image header-->
+  <div class="row no-gutters">
+    <div 
+    style="background: url('images/whereToGo/header_image.jpg')"
+    class="col-sm-12 jumbotron bg-cover text-white"
+  >
+    <div class="container py-5 text-center">
+      <h1 class="display-4 font-weight-bold">WHERE TO GO</h1>
+      <blockquote class="blockquote-reverse font-italic mb-0">
+        <p>
+          <br />That the sea is one of the most beautiful and magnificent sights
+          in Nature, all admit.
+        </p>
+        <p>- JOHN JOLY</p>
+      </blockquote>
+    </div>
+  </div>
+  </div>
+<section class="container " ng-controller="whereCtrl">
+
+
+  <!-- filter by region-->
+  <div class="row ml-3 mr-0">
+    <ul class="nav nav-tabs mr-auto mb-3">
+      <li class="nav-item">
+        <button type="button" class="btn" ng-click="filterByRegion()">
+          All
+        </button>
+      </li>
+      <li class="nav-item">
+        <button type="button" class="btn" ng-click="filterByRegion('Asia')">
+          Asia
+        </button>
+      </li>
+      <li class="nav-item">
+        <button type="button" class="btn" ng-click="filterByRegion('Africa')">
+          Africa
+        </button>
+      </li>
+      <li class="nav-item">
+        <button
+          type="button"
+          class="btn"
+          ng-click="filterByRegion('Australia')"
+        >
+          Australia
+        </button>
+      </li>
+      <li class="nav-item">
+        <button type="button" class="btn" ng-click="filterByRegion('Europe')">
+          Europe
+        </button>
+      </li>
+      <li class="nav-item">
+        <button
+          type="button"
+          class="btn"
+          ng-click="filterByRegion('North America')"
+        >
+          North America
+        </button>
+      </li>
+      <li class="nav-item">
+        <button
+          type="button"
+          class="btn"
+          ng-click="filterByRegion('South America')"
+        >
+          South America
+        </button>
+      </li>
+    </ul>
+    <button class="btn btn-primary-map" ng-click="ShowHide()">
+     {{btnmap}}
+    </button>
+  </div>
+
+  <!-- View on map -->
+  <div class="container_map" ng-show="IsVisible">
+    <div class="row">
+      <div class="col-12">
+        <div id="map_wrapper_div">
+          <div id="map_tuts"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- filter area -->
+  <div class="row">
+    <div class="col-lg-3" id="sidebar">
+      <div id="filters_col">
+        <button
+          class="btn btn-default ml-3"
+          type="button"
+          data-toggle="collapse"
+          data-target="#collapseFilters"
+          aria-expanded="false"
+          aria-controls="collapseFilters"
+        >
+          Filters <span class="fa fa-filter"></span>
+        </button>
+        <div class="collapse show" id="collapseFilters">
+          <!-- filter by best time to visit -->
+          <div class="filter_type ml-3">
+            <h5>Best time to go</h5>
+            <form>
+              <input
+                type="radio"
+                id="All"
+                name="when"
+                ng-model="when.month"
+                value=""
+              />
+              <label for="All">All</label><br />
+              <input
+                type="radio"
+                id="January"
+                name="when"
+                ng-model="when.month"
+                value="Jan"
+              />
+              <label for="Jan">January</label><br />
+
+              <input
+                type="radio"
+                id="February"
+                name="when"
+                ng-model="when.month"
+                value="Feb"
+              />
+              <label for="Feb">February</label><br />
+
+              <input
+                type="radio"
+                id="March"
+                name="when"
+                ng-model="when.month"
+                value="Mar"
+              />
+              <label for="Mar">March</label><br />
+
+              <input
+                type="radio"
+                id="April"
+                name="when"
+                ng-model="when.month"
+                value="Apr"
+              />
+              <label for="Apr">April</label><br />
+
+              <input
+                type="radio"
+                id="May"
+                name="when"
+                ng-model="when.month"
+                value="May"
+              />
+              <label for="May">May</label><br />
+
+              <input
+                type="radio"
+                id="June"
+                name="when"
+                ng-model="when.month"
+                value="Jun"
+              />
+              <label for="Jun">June</label><br />
+
+              <input
+                type="radio"
+                id="July"
+                name="when"
+                ng-model="when.month"
+                value="Jul"
+              />
+              <label for="Jul">July</label><br />
+
+              <input
+                type="radio"
+                id="August"
+                name="when"
+                ng-model="when.month"
+                value="Aug"
+              />
+              <label for="Aug">August</label><br />
+
+              <input
+                type="radio"
+                id="September"
+                name="when"
+                ng-model="when.month"
+                value="Sep"
+              />
+              <label for="Sep">September</label><br />
+
+              <input
+                type="radio"
+                id="October"
+                name="when"
+                ng-model="when.month"
+                value="Oct"
+              />
+              <label for="Oct">October</label><br />
+
+              <input
+                type="radio"
+                id="November"
+                name="when"
+                ng-model="when.month"
+                value="Nov"
+              />
+              <label for="Nov">November</label><br />
+
+              <input
+                type="radio"
+                id="December"
+                name="when"
+                ng-model="when.month"
+                value="Dec"
+              />
+              <label for="Dec">December</label><br />
+            </form>
+          </div>
+          <!-- filter by rating -->
+          <div class="filter_type ml-3">
+            <h5>Rating</h5>
+            <ul>
+              <li>
+                <label>
+                  <input
+                    type="radio"
+                    name="rating"
+                    ng-model="star.rating"
+                    value=""
+                  />All
+                </label>
+              </li>
+              <li>
+                <label>
+                  <input
+                    type="radio"
+                    name="rating"
+                    ng-model="star.rating"
+                    value="5."
+                  /><span class="fa fa-star checked"></span
+                  ><span class="fa fa-star checked"></span
+                  ><span class="fa fa-star checked"></span
+                  ><span class="fa fa-star checked"></span
+                  ><span class="fa fa-star checked"></span>
+                </label>
+              </li>
+              <li>
+                <label>
+                  <input
+                    type="radio"
+                    name="rating"
+                    ng-model="star.rating"
+                    value="4."
+                  /><span class="fa fa-star checked"></span
+                  ><span class="fa fa-star checked"></span
+                  ><span class="fa fa-star checked"></span
+                  ><span class="fa fa-star checked"></span>
+                </label>
+              </li>
+              <li>
+                <label>
+                  <input
+                    type="radio"
+                    name="rating"
+                    ng-model="star.rating"
+                    value="3."
+                  /><span class="fa fa-star checked"></span
+                  ><span class="fa fa-star checked"></span
+                  ><span class="fa fa-star checked"></span>
+                </label>
+              </li>
+              <li>
+                <label>
+                  <input
+                    type="radio"
+                    name="rating"
+                    ng-model="star.rating"
+                    value="2."
+                  /><span class="fa fa-star checked"></span
+                  ><span class="fa fa-star checked"></span>
+                </label>
+              </li>
+              <li>
+                <label>
+                  <input
+                    type="radio"
+                    name="rating"
+                    ng-model="star.rating"
+                    value="1."
+                  /><span class="fa fa-star checked"></span>
+                </label>
+              </li>
+            </ul>
+          </div>
+          <!--filter by price -->
+          <div class="filter_type ml-3">
+            <h5>Price</h5>
+            <ul>
+              <li>
+                <label>
+                  <input
+                    type="radio"
+                    name="price"
+                    ng-model="price.priceRating"
+                    value=""
+                  />All
+                </label>
+              </li>
+              <li>
+                <label>
+                  <input
+                    type="radio"
+                    name="price"
+                    ng-model="price.priceRating"
+                    value="1."
+                  />Extra economical
+                </label>
+              </li>
+              <li>
+                <label>
+                  <input
+                    type="radio"
+                    name="price"
+                    ng-model="price.priceRating"
+                    value="2."
+                  />Economical
+                </label>
+              </li>
+              <li>
+                <label>
+                  <input
+                    type="radio"
+                    name="price"
+                    ng-model="price.priceRating"
+                    value="3."
+                  />Affordable
+                </label>
+              </li>
+              <li>
+                <label>
+                  <input
+                    type="radio"
+                    name="price"
+                    ng-model="price.priceRating"
+                    value="4."
+                  />Quite expensive
+                </label>
+              </li>
+              <li>
+                <label>
+                  <input
+                    type="radio"
+                    name="price"
+                    ng-model="price.priceRating"
+                    value="5."
+                  />Expensive
+                </label>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- display list of beaches -->
+    <div class="col-lg-9">
+      <div>
+        <form class="form-inline ml-3">
+          <label for="rating" class="mr-sm-2">Sort by rating:</label>
+          <select ng-model="sortRating" class="form-control mr-sm-2">
+            <option value="-beachRating">Descending</option>
+            <option value="beachRating">Ascending</option>
+          </select>       
+          <label for="searchText" class="mr-sm-2"></label
+          ><input
+            type="text"
+            class="form-control mr-sm-2"
+            placeholder="Search by keyword"
+            ng-model="searchText"
+          />
+        </form>
+      </div>
+
+      <ul
+        class="beachItem bg-light"
+        ng-repeat="beach in beachList | filter:{beachRegion:searchRegion, beachWhen: when.month, beachRating:star.rating, beachPrice:price.priceRating} |filter:searchText |orderBy: sortRating"
+      >
+        <li>
+          <div class="container bg-light shadow p-3 mb-5 bg-white rounded">
+            <div class="thumbnail">
+              <div class="row mb-5">
+                <div class="col-md-5">
+                  <a href="#">
+                    <img class="img-responsive" src="{{beach.beachImgFull[0].src}}" width="100%" height="100%"/>
+                  </a>
+                </div>
+                <div class="col-md-7">
+                  <div class="caption">
+                    <h2><a href="{{beach.beachUrl}}" class="beachname">{{beach.beachName}}</a><span class="country"> - {{beach.beachCountry}} </span><span class="region"> - {{beach.beachRegion}}</span></h2>
+                    <div>
+                      <span class="rating">Rating: {{beach.beachRating}}<span class="fa fa-star checked"></span><span class="text-light ml-5 pt-1 pb-1 pr-2 pl-2 "
+                      ng-class="{'expensive':onlyDigits(beach.beachPrice)==5,'quiteExpensive':onlyDigits(beach.beachPrice)==4,'affordable':onlyDigits(beach.beachPrice)==3,'economical':onlyDigits(beach.beachPrice)==2,'extraEconomical':onlyDigits(beach.beachPrice)==1}"
+                      >{{priceDesc(beach.beachPrice)}}</span></span>                     
+                    </div>                  
+                    <hr />
+                    <p>
+                      {{beach.beachContent}}<a href="{{beach.beachUrl}}"><b>READ MORE>></b></a><br />
+                    </p>
+                    <hr />
+                    <p class="caption-footer">
+                      <span class="when">Best time to visit: {{beach.beachWhen}}</span>
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>         
+        </li>
+      </ul>
+    </div>
+  </div>
+</section>

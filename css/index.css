@@ -1,0 +1,258 @@
+.brand {
+  font-family: cursive;
+  text-decoration: none;
+}
+.brand:hover {
+  text-decoration: none !important;
+}
+.dropdown-item,
+.dropdown-menu {
+  background-color: var(--blue);
+  color: white;
+  border: none !important;
+}
+.dropdown-item:hover {
+  background-color: var(--lightBlue);
+  color: white;
+}
+
+#home-carousel {
+  margin-top: -1.5em;
+}
+
+/* dropdown menu */
+@media all and (min-width: 768px) {
+  .navbar .dropdown-menu-end {
+    right: 0;
+    left: auto;
+  }
+  .navbar .nav-item .dropdown-menu {
+    display: block;
+    opacity: 0;
+    visibility: hidden;
+    transition: 0.3s;
+    /* margin-top: 0; */
+  }
+  .navbar .nav-item:hover .nav-link {
+    color: #fff;
+  }
+  .navbar .dropdown-menu.fade-down {
+    top: 80%;
+    transform: rotateX(-75deg);
+    transform-origin: 0% 0%;
+  }
+  .navbar .dropdown-menu.fade-up {
+    top: 180%;
+  }
+  .navbar .nav-item:hover .dropdown-menu {
+    transition: 0.3s;
+    opacity: 1;
+    visibility: visible;
+    top: 100%;
+    transform: rotateX(0deg);
+  }
+}
+@media (min-width: 768px) and (max-width: 973px) {
+  #navbar .nav-item {
+    font-size: 0.8em;
+  }
+}
+
+/* Gallery   */
+.banner {
+  background: #a770ef;
+  background: -webkit-linear-gradient(to right, #a770ef, #cf8bf3, #fdb99b);
+  background: linear-gradient(to right, #a770ef, #cf8bf3, #fdb99b);
+}
+
+.hover {
+  overflow: hidden;
+  position: relative;
+  padding-bottom: 60%;
+}
+
+.hover-overlay {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 90;
+  transition: all 0.4s;
+}
+
+.hover img {
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  transition: all 0.3s;
+}
+
+.hover-content {
+  position: relative;
+  z-index: 99;
+}
+.hover-1 img {
+  width: 105%;
+  position: absolute;
+  top: 0;
+  left: -5%;
+  transition: all 0.3s;
+}
+
+.hover-1-content {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  z-index: 99;
+  transition: all 0.4s;
+}
+
+.hover-1 .hover-overlay {
+  background: rgba(0, 0, 0, 0.5);
+}
+
+.hover-1-description {
+  transform: translateY(0.5rem);
+  transition: all 0.4s;
+  opacity: 0;
+}
+
+.hover-1:hover .hover-1-content {
+  bottom: 2rem;
+}
+
+.hover-1:hover .hover-1-description {
+  opacity: 1;
+  transform: none;
+}
+
+.hover-1:hover img {
+  left: 0;
+}
+
+.hover-1:hover .hover-overlay {
+  opacity: 0;
+}
+
+/*subcribe bar*/
+.home-newsletter {
+  padding: 80px 0;
+  background: var(--blue);
+}
+
+.home-newsletter .single {
+  max-width: 650px;
+  margin: 0 auto;
+  text-align: center;
+  position: relative;
+  z-index: 2;
+}
+.home-newsletter .single h2 {
+  font-size: 22px;
+  color: white;
+  text-transform: uppercase;
+  margin-bottom: 40px;
+}
+.home-newsletter .single .form-control {
+  height: 50px;
+  background: rgba(255, 255, 255, 0.6);
+  border-color: transparent;
+  border-radius: 20px 0 0 20px;
+}
+.home-newsletter .single .form-control:focus {
+  box-shadow: none;
+  border-color: var(--darkBlue);
+}
+.home-newsletter .single .btn {
+  min-height: 50px;
+  border-radius: 0 20px 20px 0;
+  background: var(--darkBlue);
+  color: #fff;
+}
+.hover-1-description a {
+  color: white;
+}
+.hover-1-description a:hover {
+  color: white;
+}
+
+/* footer */
+.site-footer > .container-fluid {
+  width: 100%;
+}
+#PopularBeaches button {
+  background-color: var(--blue);
+  border-color: var(--blue);
+  color: white;
+}
+#PopularBeaches button:hover {
+  background-color: var(--darkBlue);
+  border-color: var(--darkBlue);
+}
+
+.copyright-text,
+#date-time,
+#geoCoding,
+#curPos {
+  font-style: italic;
+}
+
+footer {
+  font-size: 0.9em;
+  font-weight: 300;
+  background-color: var(--blue);
+  /* padding:45px 0 20px; */
+  color: var(--extraLightBlue);
+  margin: 0 auto;
+  margin-top: 12em;
+}
+footer a {
+  color: var(--extraLightBlue);
+  text-decoration: none !important;
+  transition: all 0.4s ease;
+  -webkit-transition: all 0.4s ease;
+}
+footer a:hover {
+  color: var(--lightBlue);
+  transition: all 0.4s ease;
+  -webkit-transition: all 0.4s ease;
+}
+#footer-right {
+  padding-left: 2em;
+}
+#footer-cate {
+  padding-right: 1em !important;
+}
+#footer-contactUs {
+  margin-top: 1em;
+}
+#footer-contactUs > div {
+  word-wrap: break-word;
+  font-style: italic;
+}
+#footer-links,
+#footer-cate {
+  padding: 0;
+}
+footer ul {
+  padding: 0;
+  margin: 0;
+}
+footer ul li {
+  margin-right: 1em !important;
+}
+
+.search {
+  padding: 5px;
+  margin: 0;
+  display: inline;
+}
+
+.footer-bottom {
+  color: var(--lighterBlue);
+}
+.copyright-text {
+  text-align: right;
+}
